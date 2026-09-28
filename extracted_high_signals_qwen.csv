@@ -1,0 +1,7 @@
+window_start_idx,timestamp,relevance_score,confidence_score,overall_eurusd_bias
+0,2020-01-03T19:00:00,0.85,0.75,buy
+3,2020-01-07T18:00:00,0.56,0.48,hold
+6,2020-01-08 16:15:00,0.73,0.68,sell
+7,2020-01-08 18:30:00,0.9,0.75,sell
+8,2020-01-08 21:00:00,0.94,0.87,sell
+9,2020-01-09 16:30:00,0.5,0.45,hold

@@ -1,0 +1,597 @@
+Everything D1, using EURUSD_D1_2000_2026.csv:
+seq_length = 26, horizon=4, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           56.99%
+  VAL MARKET COVERAGE:     44.64% (3706 Trades)
+  OOS ROLLING WINDOW DA: 57.16%
+  MARKTABDECKUNG (TRADES):              49.52% (824 Trades)
+==============================================
+
+seq_length = 25, horizon=4, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.45%
+  VAL MARKET COVERAGE:     29.35% (2437 Trades)
+  OOS ROLLING WINDOW DA: 59.74%
+  MARKTABDECKUNG (TRADES):              27.46% (457 Trades)
+==============================================
+
+seq_length=24, horizon=4, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.12%
+  VAL MARKET COVERAGE:     25.05% (2080 Trades)
+  OOS ROLLING WINDOW DA: 50.27%
+  MARKTABDECKUNG (TRADES):              22.00% (366 Trades)
+==============================================
+
+seq_length=27, horizon=4, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           56.27%
+  VAL MARKET COVERAGE:     43.88% (3643 Trades)
+  OOS ROLLING WINDOW DA: 54.39%
+  MARKTABDECKUNG (TRADES):              47.18% (785 Trades)
+==============================================
+
+seq_length=30, horizon=4, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           56.38%
+  VAL MARKET COVERAGE:     37.59% (3118 Trades)
+  OOS ROLLING WINDOW DA: 52.78%
+  MARKTABDECKUNG (TRADES):              30.29% (504 Trades)
+==============================================
+
+seq_length=20, horizon=4, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.48%
+  VAL MARKET COVERAGE:     39.38% (3272 Trades)
+  OOS ROLLING WINDOW DA: 46.46%
+  MARKTABDECKUNG (TRADES):              36.48% (607 Trades)
+==============================================
+
+seq_length=25, horizon=5, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.22%
+  VAL MARKET COVERAGE:     23.51% (1952 Trades)
+  OOS ROLLING WINDOW DA: 55.81%
+  MARKTABDECKUNG (TRADES):              23.81% (396 Trades)
+==============================================
+
+seq_length=26, horizon=5, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.59%
+  VAL MARKET COVERAGE:     26.81% (2226 Trades)
+  OOS ROLLING WINDOW DA: 55.87%
+  MARKTABDECKUNG (TRADES):              29.71% (494 Trades)
+==============================================
+
+seq_length=25, horizon=6, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           56.19%
+  VAL MARKET COVERAGE:     26.78% (2223 Trades)
+  OOS ROLLING WINDOW DA: 52.57%
+  MARKTABDECKUNG (TRADES):              21.06% (350 Trades)
+==============================================
+
+seq_length=26, horizon=6, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.40%
+  VAL MARKET COVERAGE:     40.59% (3370 Trades)
+  OOS ROLLING WINDOW DA: 47.22%
+  MARKTABDECKUNG (TRADES):              38.99% (648 Trades)
+==============================================
+
+seq_length=25, horizon=3, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.68%
+  VAL MARKET COVERAGE:     28.44% (2361 Trades)
+  OOS ROLLING WINDOW DA: 55.74%
+  MARKTABDECKUNG (TRADES):              28.23% (470 Trades)
+==============================================
+
+seq_length=26, horizon=3, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.37%
+  VAL MARKET COVERAGE:     21.10% (1752 Trades)
+  OOS ROLLING WINDOW DA: 60.20%
+  MARKTABDECKUNG (TRADES):              17.66% (294 Trades)
+==============================================
+
+seq_length=25, horizon=2, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.34%
+  VAL MARKET COVERAGE:     24.48% (2034 Trades)
+  OOS ROLLING WINDOW DA: 51.45%
+  MARKTABDECKUNG (TRADES):              29.05% (484 Trades)
+==============================================
+
+seq_length=26, horizon=2, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.14%
+  VAL MARKET COVERAGE:     31.54% (2619 Trades)
+  OOS ROLLING WINDOW DA: 53.59%
+  MARKTABDECKUNG (TRADES):              30.91% (515 Trades)
+==============================================
+
+seq_length=25, horizon=1, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.34%
+  VAL MARKET COVERAGE:     24.48% (2034 Trades)
+  OOS ROLLING WINDOW DA: 51.45%
+  MARKTABDECKUNG (TRADES):              29.05% (484 Trades)
+==============================================
+
+seq_length=26, horizon=1, fixed 2000
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.21%
+  VAL MARKET COVERAGE:     36.35% (3020 Trades)
+  OOS ROLLING WINDOW DA: 51.17%
+  MARKTABDECKUNG (TRADES):              41.03% (684 Trades)
+==============================================
+
+seq_length=25, horizon=4, fixed 2002
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.72%
+  VAL MARKET COVERAGE:     28.37% (2157 Trades)
+  OOS ROLLING WINDOW DA: 54.32%
+  MARKTABDECKUNG (TRADES):              28.55% (475 Trades)
+==============================================
+
+seq_length=26, horizon=4, fixed 2002
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.83%
+  VAL MARKET COVERAGE:     34.31% (2608 Trades)
+  OOS ROLLING WINDOW DA: 55.85%
+  MARKTABDECKUNG (TRADES):              35.94% (598 Trades)
+==============================================
+
+seq_length=25, horizon=4, fixed 2005
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.60%
+  VAL MARKET COVERAGE:     39.93% (2597 Trades)
+  OOS ROLLING WINDOW DA: 57.73%
+  MARKTABDECKUNG (TRADES):              33.41% (556 Trades)
+==============================================
+
+seq_length=26, horizon=4, fixed 2005
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.22%
+  VAL MARKET COVERAGE:     23.76% (1545 Trades)
+  OOS ROLLING WINDOW DA: 56.96%
+  MARKTABDECKUNG (TRADES):              22.90% (381 Trades)
+==============================================
+
+seq_length=25, horizon=4, last 20 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.63%
+  VAL MARKET COVERAGE:     31.69% (2292 Trades)
+  OOS ROLLING WINDOW DA: 56.88%
+  MARKTABDECKUNG (TRADES):              22.72% (378 Trades)
+==============================================
+
+seq_length=26, horizon=4, last 20 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           56.03%
+  VAL MARKET COVERAGE:     31.07% (2247 Trades)
+  OOS ROLLING WINDOW DA: 62.27%
+  MARKTABDECKUNG (TRADES):              29.63% (493 Trades)
+==============================================
+
+
+
+
+Everything H12, using EURUSD_H12_2010_2026:
+seq_length=70, horizon=1, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           50.41%
+  VAL MARKET COVERAGE:     76.10% (6009 Trades)
+  OOS ROLLING WINDOW DA: 50.31%
+  MARKTABDECKUNG (TRADES):              73.59% (2449 Trades)
+==============================================
+
+seq_length=70, horizon=2, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.08%
+  VAL MARKET COVERAGE:     22.40% (1769 Trades)
+  OOS ROLLING WINDOW DA: 51.06%
+  MARKTABDECKUNG (TRADES):              19.84% (660 Trades)
+==============================================
+
+seq_length=70, horizon=4, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.91%
+  VAL MARKET COVERAGE:     31.33% (2473 Trades)
+  OOS ROLLING WINDOW DA: 49.40%
+  MARKTABDECKUNG (TRADES):              27.46% (913 Trades)
+==============================================
+
+seq_length=70, horizon=6, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.93%
+  VAL MARKET COVERAGE:     33.27% (2625 Trades)
+  OOS ROLLING WINDOW DA: 49.14%
+  MARKTABDECKUNG (TRADES):              33.07% (1099 Trades)
+==============================================
+
+seq_length=60, horizon=7, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           56.99%
+  VAL MARKET COVERAGE:     33.22% (2625 Trades)
+  OOS ROLLING WINDOW DA: 50.57%
+  MARKTABDECKUNG (TRADES):              34.17% (1135 Trades)
+==============================================
+
+seq_length=65, horizon=7, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.74%
+  VAL MARKET COVERAGE:     37.27% (2943 Trades)
+  OOS ROLLING WINDOW DA: 53.76%
+  MARKTABDECKUNG (TRADES):              35.22% (1170 Trades)
+==============================================
+
+seq_length=70, horizon=7, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.37%
+  VAL MARKET COVERAGE:     31.13% (2456 Trades)
+  OOS ROLLING WINDOW DA: 58.13%
+  MARKTABDECKUNG (TRADES):              27.39% (910 Trades)
+==============================================
+
+seq_length=75, horizon=7, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.24%
+  VAL MARKET COVERAGE:     33.11% (2610 Trades)
+  OOS ROLLING WINDOW DA: 55.50%
+  MARKTABDECKUNG (TRADES):              33.14% (1101 Trades)
+==============================================
+
+seq_length=80, horizon=7, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           57.02%
+  VAL MARKET COVERAGE:     38.79% (3055 Trades)
+  OOS ROLLING WINDOW DA: 55.20%
+  MARKTABDECKUNG (TRADES):              32.12% (1067 Trades)
+==============================================
+
+seq_length=70, horizon=8, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.94%
+  VAL MARKET COVERAGE:     40.47% (3192 Trades)
+  OOS ROLLING WINDOW DA: 51.56%
+  MARKTABDECKUNG (TRADES):              35.80% (1189 Trades)
+==============================================
+
+seq_length=70, horizon=9, fixed 2012
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.68%
+  VAL MARKET COVERAGE:     36.25% (2859 Trades)
+  OOS ROLLING WINDOW DA: 55.16%
+  MARKTABDECKUNG (TRADES):              37.68% (1251 Trades)
+==============================================
+
+seq_length=70, horizon=7, fixed 2010
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           55.96%
+  VAL MARKET COVERAGE:     30.81% (2870 Trades)
+  OOS ROLLING WINDOW DA: 55.60%
+  MARKTABDECKUNG (TRADES):              24.74% (822 Trades)
+==============================================
+
+seq_length=70, horizon=7, fixed 2014
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.68%
+  VAL MARKET COVERAGE:     51.17% (3292 Trades)
+  OOS ROLLING WINDOW DA: 48.89%
+  MARKTABDECKUNG (TRADES):              45.94% (1526 Trades)
+==============================================
+
+seq_length=70, horizon=7, last 8 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.87%
+  VAL MARKET COVERAGE:     29.34% (1675 Trades)
+  OOS ROLLING WINDOW DA: 58.72%
+  MARKTABDECKUNG (TRADES):              26.76% (889 Trades)
+==============================================
+
+
+
+Everything H4, using EURUSD_H4_2010_2026:
+seq_length=31, horizon=1, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           50.42%
+  VAL MARKET COVERAGE:     40.39% (11403 Trades)
+  OOS ROLLING WINDOW DA: 51.43%
+  MARKTABDECKUNG (TRADES):              44.45% (4429 Trades)
+==============================================
+
+seq_length=31, horizon=2, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           51.21%
+  VAL MARKET COVERAGE:     35.85% (10122 Trades)
+  OOS ROLLING WINDOW DA: 49.49%
+  MARKTABDECKUNG (TRADES):              46.62% (4645 Trades)
+==============================================
+
+seq_length=31, horizon=3, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           50.89%
+  VAL MARKET COVERAGE:     41.33% (11667 Trades)
+  OOS ROLLING WINDOW DA: 51.89%
+  MARKTABDECKUNG (TRADES):              35.91% (3577 Trades)
+==============================================
+
+seq_length=31, horizon=4, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.00%
+  VAL MARKET COVERAGE:     32.30% (9118 Trades)
+  OOS ROLLING WINDOW DA: 50.72%
+  MARKTABDECKUNG (TRADES):              34.04% (3391 Trades)
+==============================================
+
+seq_length=30, horizon=5, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.86%
+  VAL MARKET COVERAGE:     42.86% (12098 Trades)
+  OOS ROLLING WINDOW DA: 51.61%
+  MARKTABDECKUNG (TRADES):              52.80% (5259 Trades)
+==============================================
+
+seq_length=31, horizon=5, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.02%
+  VAL MARKET COVERAGE:     46.27% (13062 Trades)
+  OOS ROLLING WINDOW DA: 50.70%
+  MARKTABDECKUNG (TRADES):              54.58% (5436 Trades)
+==============================================
+
+seq_length=24, horizon=6, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.18%
+  VAL MARKET COVERAGE:     39.48% (11147 Trades)
+  OOS ROLLING WINDOW DA: 51.54%
+  MARKTABDECKUNG (TRADES):              42.47% (4230 Trades)
+==============================================
+
+seq_length=29, horizon=6, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.83%
+  VAL MARKET COVERAGE:     27.93% (7885 Trades)
+  OOS ROLLING WINDOW DA: 53.76%
+  MARKTABDECKUNG (TRADES):              29.47% (2935 Trades)
+==============================================
+
+seq_length=30, horizon=6, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           51.68%
+  VAL MARKET COVERAGE:     33.20% (9371 Trades)
+  OOS ROLLING WINDOW DA: 54.85%
+  MARKTABDECKUNG (TRADES):              38.43% (3827 Trades)
+==============================================
+
+seq_length=31, horizon=6, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.00%
+  VAL MARKET COVERAGE:     24.72% (6978 Trades)
+  OOS ROLLING WINDOW DA: 54.65%
+  MARKTABDECKUNG (TRADES):              28.61% (2849 Trades)
+==============================================
+
+seq_length=32, horizon=6, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.16%
+  VAL MARKET COVERAGE:     16.88% (4764 Trades)
+  OOS ROLLING WINDOW DA: 54.79%
+  MARKTABDECKUNG (TRADES):              15.41% (1535 Trades)
+==============================================
+
+seq_length=33, horizon=6, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.25%
+  VAL MARKET COVERAGE:     23.94% (6758 Trades)
+  OOS ROLLING WINDOW DA: 52.90%
+  MARKTABDECKUNG (TRADES):              27.88% (2777 Trades)
+==============================================
+
+seq_length=36, horizon=6, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           54.69%
+  VAL MARKET COVERAGE:     17.48% (4933 Trades)
+  OOS ROLLING WINDOW DA: 52.54%
+  MARKTABDECKUNG (TRADES):              19.40% (1932 Trades)
+==============================================
+
+seq_length=31, horizon=7, fixed 2010, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.79%
+  VAL MARKET COVERAGE:     35.91% (10137 Trades)
+  OOS ROLLING WINDOW DA: 54.23%
+  MARKTABDECKUNG (TRADES):              39.56% (3939 Trades)
+==============================================
+
+seq_length=31, horizon=6, fixed 2012, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.29%
+  VAL MARKET COVERAGE:     39.97% (9550 Trades)
+  OOS ROLLING WINDOW DA: 51.18%
+  MARKTABDECKUNG (TRADES):              43.97% (4379 Trades)
+==============================================
+
+seq_length=31, horizon=6, fixed 2008, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.51%
+  VAL MARKET COVERAGE:     26.12% (8515 Trades)
+  OOS ROLLING WINDOW DA: 50.65%
+  MARKTABDECKUNG (TRADES):              23.30% (2320 Trades)
+==============================================
+
+seq_length=31, horizon=6, last 10 years, coverage=0.1
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.76%
+  VAL MARKET COVERAGE:     42.11% (9145 Trades)
+  OOS ROLLING WINDOW DA: 53.09%
+  MARKTABDECKUNG (TRADES):              42.38% (4221 Trades)
+==============================================
+
+
+
+
+
+Everything H1, using EURUSD_H1_2010_2026, cov=0.01:
+seq_length=24,horizon=1,last3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           50.71%
+  VAL MARKET COVERAGE:     27.95% (7287 Trades)
+  OOS ROLLING WINDOW DA: 49.32%
+  MARKTABDECKUNG (TRADES):              28.83% (11471 Trades)
+==============================================
+
+seq_length=24,horizon=2,last3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.13%
+  VAL MARKET COVERAGE:     36.86% (9609 Trades)
+  OOS ROLLING WINDOW DA: 49.82%
+  MARKTABDECKUNG (TRADES):              39.73% (15805 Trades)
+==============================================
+
+seq_length=24, horizon=3, last 3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.72%
+  VAL MARKET COVERAGE:     11.12% (2900 Trades)
+  OOS ROLLING WINDOW DA: 52.26%
+  MARKTABDECKUNG (TRADES):              9.35% (3720 Trades)
+==============================================
+
+seq_length=24, horizon=4, last 3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.61%
+  VAL MARKET COVERAGE:     11.05% (2880 Trades)
+  OOS ROLLING WINDOW DA: 53.89%
+  MARKTABDECKUNG (TRADES):              14.50% (5769 Trades)
+==============================================
+
+seq_length=20, horizon=4, last 3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.57%
+  VAL MARKET COVERAGE:     13.27% (3459 Trades)
+  OOS ROLLING WINDOW DA: 49.36%
+  MARKTABDECKUNG (TRADES):              13.60% (5411 Trades)
+==============================================
+
+seq_length=28, horizon=4, last 3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           50.62%
+  VAL MARKET COVERAGE:     16.39% (4271 Trades)
+  OOS ROLLING WINDOW DA: 48.82%
+  MARKTABDECKUNG (TRADES):              18.47% (7347 Trades)
+==============================================
+
+seq_length=24, horizon=5, last 3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           51.03%
+  VAL MARKET COVERAGE:     18.58% (4844 Trades)
+  OOS ROLLING WINDOW DA: 48.95%
+  MARKTABDECKUNG (TRADES):              21.45% (8534 Trades)
+==============================================
+
+seq_length=24, horizon=6, last 3 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           52.17%
+  VAL MARKET COVERAGE:     23.53% (6134 Trades)
+  OOS ROLLING WINDOW DA: 51.64%
+  MARKTABDECKUNG (TRADES):              25.62% (10190 Trades)
+==============================================
+
+seq_length=24, horizon=4, fixed 2018
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           51.80%
+  VAL MARKET COVERAGE:     14.24% (6189 Trades)
+  OOS ROLLING WINDOW DA: 50.87%
+  MARKTABDECKUNG (TRADES):              14.67% (5837 Trades)
+==============================================
+
+seq_length=24, horizon=4, fixed 2019
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           51.99%
+  VAL MARKET COVERAGE:     17.16% (5968 Trades)
+  OOS ROLLING WINDOW DA: 50.70%
+  MARKTABDECKUNG (TRADES):              22.26% (8856 Trades)
+==============================================
+
+seq_length=24, horizon=4, last 4 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           53.27%
+  VAL MARKET COVERAGE:     25.75% (8953 Trades)
+  OOS ROLLING WINDOW DA: 51.96%
+  MARKTABDECKUNG (TRADES):              27.71% (11022 Trades)
+==============================================
+
+seq_length=24, horizon=4, last 5 years
+==============================================
+  AGGREGATED VALIDATION DATA SELECTION METRICS
+  VALIDATION DA:           51.43%
+  VAL MARKET COVERAGE:     20.49% (8907 Trades)
+  OOS ROLLING WINDOW DA: 51.04%
+  MARKTABDECKUNG (TRADES):              20.69% (8232 Trades)
+==============================================

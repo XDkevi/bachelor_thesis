@@ -1,0 +1,73 @@
+[
+    {
+        "prediction_candle": "2021-01-01 04:00:00",
+        "llm_analysis": {
+            "summary": "The macroeconomic environment is marked by a sharp divergence between record-high US equity markets and worsening labor market conditions, as evidenced by rising jobless claims. Geopolitical uncertainty has intensified with the United Kingdom's final exit from the European Union. Additionally, trade tensions are escalating due to new US tariffs targeting French and German wine imports.",
+            "macro_drivers": [
+                {
+                    "topic": "Employment",
+                    "direction": "worsening",
+                    "strength": 0.7,
+                    "reason": "US weekly jobless claims have reached a three-month high driven by COVID-19 restrictions."
+                },
+                {
+                    "topic": "Geopolitics",
+                    "direction": "escalating",
+                    "strength": 0.8,
+                    "reason": "The United Kingdom is officially completing its departure from the European Union, introducing significant uncertainty."
+                },
+                {
+                    "topic": "Trade",
+                    "direction": "worsening",
+                    "strength": 0.6,
+                    "reason": "The US has imposed additional tariffs on wine imports from France and Germany."
+                },
+                {
+                    "topic": "Financial Markets",
+                    "direction": "improving",
+                    "strength": 0.5,
+                    "reason": "Major US stock indices reached record highs at the end of the pandemic-impacted year."
+                },
+                {
+                    "topic": "Economic Growth",
+                    "direction": "worsening",
+                    "strength": 0.4,
+                    "reason": "There are ongoing discussions and risks regarding a potential recession in the US during the administration transition."
+                }
+            ],
+            "risks": [
+                "Continued pandemic-related restrictions impacting global labor markets.",
+                "Increased trade volatility due to US tariffs on EU goods.",
+                "Economic instability resulting from the UK's final separation from the EU single market."
+            ],
+            "importance": 0.7,
+            "confidence": 0.9
+        }
+    },
+    {
+        "prediction_candle": "2024-01-01 04:00:00",
+        "llm_analysis": {
+            "summary": "The macroeconomic landscape is currently influenced by heightened geopolitical tensions across two separate global regions. Continued conflict in Gaza and aggressive rhetoric regarding the reunification of Taiwan suggest a period of prolonged instability.",
+            "macro_drivers": [
+                {
+                    "topic": "Geopolitics",
+                    "direction": "escalating",
+                    "strength": 0.6,
+                    "reason": "Ongoing military operations in Gaza and assertive claims by China regarding Taiwan increase global geopolitical volatility."
+                },
+                {
+                    "topic": "Risk Sentiment",
+                    "direction": "worsening",
+                    "strength": 0.5,
+                    "reason": "Increased tensions in the Middle East and Asia-Pacific typically lead to higher risk aversion among investors."
+                }
+            ],
+            "risks": [
+                "Prolonged war in Gaza leading to regional instability",
+                "Potential escalation of conflict between China and Taiwan"
+            ],
+            "importance": 0.3,
+            "confidence": 0.9
+        }
+    }
+]

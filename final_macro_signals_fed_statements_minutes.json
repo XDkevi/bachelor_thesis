@@ -1,0 +1,2860 @@
+[
+    {
+        "summary": "The FOMC maintained the federal funds rate at 1-1/2 to 1-3/4 percent, stating that the current policy stance is appropriate for supporting economic expansion and a strong labor market. While employment remains solid, the Committee noted that inflation is running below its symmetric 2 percent objective. Future rate adjustments will be based on realized and expected economic conditions relative to the Fed's dual mandate.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 1-1/2 to 1-3/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "Overall inflation and inflation for items other than food and energy are running below 2 percent."
+            }
+        ],
+        "risks": [
+            "Muted inflation pressures",
+            "Weak business fixed investment and exports",
+            "Global developments affecting the economic outlook"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2019.12.11 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC decided to maintain the federal funds rate at 1.5% to 1.75%, judging the current stance appropriate for supporting sustained economic expansion and strong labor market conditions. The committee expressed a commitment to returning inflation to its symmetric 2% objective while monitoring global developments. Forward guidance indicates that policy will likely remain steady unless incoming data necessitates a material reassessment of the outlook.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 1-1/2 to 1-3/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "Participants generally expressed concerns regarding inflation continuing to run below the symmetric 2 percent objective."
+            }
+        ],
+        "risks": [
+            "International trade tensions and weakness in global economic growth.",
+            "Long-term inflation expectations drifting down due to persistently low actual inflation.",
+            "Excessive risk-taking in the financial sector caused by keeping interest rates low over a long period."
+        ],
+        "importance": 0.5,
+        "confidence": 1.0,
+        "time": "2020.01.03 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, December 10-11, 2019 "
+    },
+    {
+        "summary": "The FOMC decided to maintain the federal funds rate at 1-1/2 to 1-3/4 percent, viewing the current stance as appropriate for economic expansion and labor market strength. While employment remains strong, inflation is currently running below the symmetric 2 percent objective. Future policy adjustments will be based on incoming data relative to the Fed's dual mandate.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 1-1/2 to 1-3/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "Overall inflation and inflation for items other than food and energy are running below 2 percent."
+            }
+        ],
+        "risks": [
+            "Weak business fixed investment and exports",
+            "Muted inflation pressures remaining below the 2 percent target",
+            "Uncertainty from global developments"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2020.01.29 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 1.5% to 1.75%, judging the current stance appropriate for supporting economic expansion and strong labor market conditions. The Committee emphasized a goal of returning inflation to its symmetric 2% objective, noting that policy is likely to remain steady for some time. Future adjustments will be data-dependent, focusing on maximum employment and price stability.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "Participants noted inflation is running below 2 percent and discussed the possibility that mild overshooting could be consistent with their symmetric objective."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "neutral",
+                "strength": 0.7,
+                "reason": "The Committee highlighted that labor market conditions remain strong, with the unemployment rate at a 50-year low of 3.5 percent."
+            }
+        ],
+        "risks": [
+            "Economic impact of the coronavirus outbreak",
+            "Persistent trade-related uncertainty and potential re-escalation of tensions",
+            "Geopolitical risks in the Middle East",
+            "Elevated valuations in equity, corporate debt, and commercial real estate markets"
+        ],
+        "importance": 0.6,
+        "confidence": 0.9,
+        "time": "2020.02.19 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee January 28-29, 2020"
+    },
+    {
+        "summary": "The Federal Reserve lowered the federal funds rate by 50 basis points to a range of 1% to 1.25%. This action was taken to mitigate risks posed by the coronavirus to economic activity and support maximum employment and price stability. The Committee indicated it will continue to monitor developments and act as appropriate to support the economy.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Federal Open Market Committee decided today to lower the target range for the federal funds rate by 1/2 percentage point."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "The Committee will use its tools and act as appropriate to support the economy in light of evolving risks."
+            }
+        ],
+        "risks": [
+            "Coronavirus posing evolving risks to economic activity"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.03.03 17:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC has aggressively lowered the federal funds rate to 0 to 1/4 percent to counteract economic disruptions caused by the coronavirus outbreak. To further support credit flow, the Fed initiated significant quantitative easing through massive purchases of Treasury securities and agency mortgage-backed securities. The Committee intends to maintain this accommodative stance until it is confident that maximum employment and price stability goals are back on track.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate to 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee will increase its holdings of Treasury securities by at least $500 billion and agency mortgage-backed securities by at least $200 billion."
+            }
+        ],
+        "risks": [
+            "Economic activity disrupted by the coronavirus outbreak",
+            "Inflation running below the symmetric 2 percent objective",
+            "Stress in the energy sector",
+            "Potential disruptions to the flow of credit to households and businesses"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.03.15 23:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve has adopted an extremely accommodative stance, cutting the federal funds rate to a target range of 0 to 1/4 percent. To support the economy and market functioning, the FOMC is implementing aggressive quantitative easing through Treasury and agency mortgage-backed securities purchases.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee directs the Desk to maintain the federal funds rate in a target range of 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will increase holdings of Treasury and agency mortgage-backed securities in the amounts needed to support smooth market functioning."
+            }
+        ],
+        "risks": [
+            "Strains in the markets for Treasury securities and agency mortgage-backed securities",
+            "Disruptions to the flow of credit to households and businesses"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.03.23 14:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve adopted an extremely accommodative stance by slashing the federal funds rate to 0-0.25% and launching massive asset purchases of Treasuries and MBS to counter pandemic-driven economic disruption. This forceful response aims to support credit flow and prevent a lasting decline in inflation expectations. The Committee intends to maintain rates at the effective lower bound until confident that maximum employment and price stability goals are back on track.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate to 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee agreed to increase its holdings of Treasury securities by at least $500 billion and its holdings of agency MBS by at least $200 billion."
+            }
+        ],
+        "risks": [
+            "Possibility of the virus outbreak becoming more widespread than expected, leading to further temporary shutdowns.",
+            "Severe illiquidity in key securities markets impeding financial intermediation to households and businesses.",
+            "Downward pressure on inflation causing a lasting decline in inflation expectations."
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.04.08 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, March 15, 2020"
+    },
+    {
+        "summary": "The Federal Reserve has maintained the target range for the federal funds rate at 0 to 1/4 percent in response to the economic impact of the coronavirus outbreak. The Committee committed to open-ended asset purchases of Treasury and mortgage-backed securities to support credit flow to households and businesses. Forward guidance indicates rates will remain unchanged until the economy is on track to achieve maximum employment and price stability.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Federal Reserve will continue to purchase Treasury securities and agency residential and commercial mortgage-backed securities in the amounts needed."
+            }
+        ],
+        "risks": [
+            "Ongoing public health crisis weighing heavily on economic activity, employment, and inflation",
+            "Impaired flow of credit to U.S. households and businesses due to financial condition disruptions"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.04.29 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0 to 0.25%, committing to this level until confident that maximum employment and price stability goals are restored. To mitigate severe economic contraction and labor market collapse caused by COVID-19, the Fed continued large-scale asset purchases of Treasuries and mortgage-backed securities to support credit flow. The overarching stance is aggressively accommodative, prioritizing market functioning and economic stabilization during an unprecedented crisis.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "Maintained the target range for the federal funds rate at 0 to 1/4 percent and expects to keep it there until the economy is on track to achieve its goals."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "Participants noted that an extreme decline in employment was underway and expected the unemployment rate to reach highest levels of the post-World War II period."
+            }
+        ],
+        "risks": [
+            "A second wave of the coronavirus outbreak inducing further economic disruption and renewed downward pressure on inflation.",
+            "Permanent loss of job-specific skills or labor force exit among workers facing prolonged unemployment.",
+            "Potential for a wave of bankruptcies in the energy sector due to plunging oil prices.",
+            "Financial instability in emerging market economies spilling over to hamper U.S. economic activity."
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.05.20 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, April 28-29, 2020"
+    },
+    {
+        "summary": "The FOMC has maintained the federal funds rate at 0 to 1/4 percent and signaled that rates will remain at this level until maximum employment and price stability are achieved. To support credit flow amid the pandemic, the Fed is committing to increase holdings of Treasury and mortgage-backed securities.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Federal Reserve will increase its holdings of Treasury securities and agency residential and commercial mortgage-backed securities at least at the current pace."
+            }
+        ],
+        "risks": [
+            "Ongoing public health crisis weighing on economic activity and employment",
+            "Considerable risks to the economic outlook over the medium term",
+            "Muted inflation pressures resulting from weaker demand and lower oil prices"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.06.10 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0 to 1/4 percent and committed to continuing large-scale asset purchases of Treasury and agency MBS/CMBS at least at the current pace. Policy is highly accommodative, with forward guidance indicating rates will remain at the effective lower bound until the Committee is confident that maximum employment and price stability goals are on track. The Fed also signaled a potential shift toward outcome-based forward guidance to support a durable recovery.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee expects to maintain the target range at 0 to 1/4 percent until it is confident the economy is on track to achieve maximum employment and price stability goals."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Fed committed to increasing holdings of Treasury securities and agency MBS and CMBS at least at the current pace to sustain smooth market functioning."
+            }
+        ],
+        "risks": [
+            "Additional waves of coronavirus outbreaks causing further economic disruptions",
+            "Deterioration of long-term inflation expectations due to prolonged disinflationary pressure",
+            "Insufficient fiscal support for households, businesses, and state/local governments",
+            "Permanent business closures and loss of worker skills leading to reduced potential output"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.07.01 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, June 9-10, 2020"
+    },
+    {
+        "summary": "The FOMC has maintained the federal funds rate at 0 to 1/4 percent and intends to keep it there until maximum employment and price stability are achieved. The Committee is implementing aggressive quantitative easing by increasing holdings of Treasury and mortgage-backed securities to support credit flow. This stance is a direct response to the severe economic hardship caused by the coronavirus outbreak.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Federal Reserve will increase its holdings of Treasury securities and agency residential and commercial mortgage-backed securities at least at the current pace."
+            }
+        ],
+        "risks": [
+            "Ongoing public health crisis weighing heavily on economic activity, employment, and inflation",
+            "Considerable risks to the economic outlook over the medium term"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.07.29 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 0 to 1/4 percent, committing to a highly accommodative stance until maximum employment and price stability goals are achieved. The Committee pledged to continue increasing holdings of Treasury and agency MBS securities at least at the current pace to support credit flow. Forward guidance is outcome-based, tying future rate adjustments to confidence that the economy has weathered recent pandemic events.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will increase its holdings of Treasury securities and agency residential and commercial mortgage-backed securities at least at the current pace."
+            }
+        ],
+        "risks": [
+            "Additional waves of virus outbreaks causing extended economic disruptions and a protracted period of reduced activity",
+            "Insufficient fiscal support for households, businesses, and state/local governments to relieve financial strains",
+            "Risk that longer-term inflation expectations might move below levels consistent with the symmetric 2 percent objective",
+            "Possible restructuring in some sectors slowing the growth of the economy's productive capacity over the long run"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.08.19 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, July 28-29, 2020"
+    },
+    {
+        "summary": "The Federal Reserve is maintaining an accommodative monetary policy stance to support the U.S. economy amidst the COVID-19 pandemic. It has kept the federal funds rate at 0 to 0.25% and committed to increasing holdings of Treasury and mortgage-backed securities. The Committee now aims for inflation to moderately exceed 2% over time to achieve its longer-run price stability goal.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee kept the target range at 0 to 1/4 percent and will maintain it until maximum employment is reached and inflation moderately exceeds 2%."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Federal Reserve will increase holdings of Treasury securities and agency mortgage-backed securities at least at the current pace."
+            }
+        ],
+        "risks": [
+            "Ongoing public health crisis weighing on economic activity, employment, and inflation",
+            "Inflation running persistently below the 2 percent longer-run goal",
+            "Considerable risks to the medium-term economic outlook depending on the course of the virus"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.09.16 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0-0.25% and adopted a flexible average inflation targeting framework, aiming for inflation to moderately exceed 2% over time. Forward guidance was shifted to an outcome-based approach, linking future rate hikes to both the attainment of maximum employment and specific inflation thresholds. The Committee also committed to continuing Treasury and MBS purchases at least at the current pace to foster accommodative financial conditions.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The FOMC will maintain rates at the ELB until labor market conditions reach maximum employment and inflation is on track to moderately exceed 2% for some time."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Fed aims to achieve inflation moderately above 2% for some time so that it averages 2% over the longer run."
+            }
+        ],
+        "risks": [
+            "Possibility of additional virus outbreaks undermining the economic recovery",
+            "Insufficient fiscal support for households, businesses, and state/local governments",
+            "Long-run structural changes in the economy potentially slowing employment growth or accelerating technological disruption"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.10.07 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, September 15-16, 2020"
+    },
+    {
+        "summary": "The Federal Reserve maintains a highly accommodative policy stance, keeping the federal funds rate at 0 to 1/4 percent and continuing quantitative easing through asset purchases. The Committee explicitly aims for inflation to moderately exceed 2% for some time to achieve an average of 2% over the longer run. Policy will remain loose until maximum employment is reached and inflation targets are sustained.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent until labor market conditions and inflation goals are achieved."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee will aim to achieve inflation moderately above 2 percent for some time so that inflation averages 2 percent over time."
+            }
+        ],
+        "risks": [
+            "Ongoing public health crisis weighing on economic activity and employment",
+            "Considerable risks to the economic outlook over the medium term"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2020.11.05 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained a highly accommodative monetary policy stance, keeping the federal funds rate at 0 to 1/4 percent. The Committee reaffirmed its commitment to an average inflation target of 2%, explicitly stating it would aim for inflation to moderately exceed this goal for some time. Asset purchases will continue at least at the current pace to support market functioning and foster accommodative financial conditions.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Federal Reserve will increase its holdings of Treasury securities and agency mortgage-backed securities at least at the current pace."
+            }
+        ],
+        "risks": [
+            "A further resurgence of COVID-19 cases undermining the economic recovery",
+            "Insufficient fiscal support for households, businesses, and state/local governments",
+            "Excessive risk-taking resulting from a prolonged period of low interest rates",
+            "Potential declines in commercial real estate prices due to rising vacancies and declining rents"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2020.11.25 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, November 4-5, 2020"
+    },
+    {
+        "summary": "The Federal Reserve maintains an aggressively accommodative monetary policy stance to support economic recovery during the pandemic. It has kept interest rates at 0-0.25% and committed to ongoing large-scale asset purchases. The Committee introduced a flexible average inflation targeting framework, aiming for inflation to moderately exceed 2% for some time.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent until labor market and inflation goals are met."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will increase Treasury holdings by at least $80 billion per month and agency MBS by at least $40 billion per month."
+            }
+        ],
+        "risks": [
+            "The ongoing public health crisis weighing on economic activity, employment, and inflation",
+            "Considerable risks to the medium-term economic outlook depending on the course of the virus"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2020.12.16 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0 to 0.25% and adopted a highly accommodative stance to support the economy during the pandemic recovery. The Committee shifted to outcome-based guidance, committing to keep rates low until inflation moderately exceeds 2% for some time and continuing asset purchases until substantial further progress is made toward maximum employment and price stability.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee will aim for inflation to moderately exceed 2% for some time so that it averages 2% over time."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed committed to increasing Treasury holdings by $80 billion and agency MBS by $40 billion per month until substantial further progress is made toward its goals."
+            }
+        ],
+        "risks": [
+            "Possibility that the vaccine rollout might not proceed as smoothly as anticipated",
+            "Potential for significant additional fiscal policy support to not materialize in a timely manner",
+            "Further adverse pandemic developments leading to more stringent restrictions and permanent job losses",
+            "Failure of trade negotiations between the United Kingdom and the European Union"
+        ],
+        "importance": 0.95,
+        "confidence": 1.0,
+        "time": "2021.01.06 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, December 15-16, 2020"
+    },
+    {
+        "summary": "The Federal Reserve maintains an accommodative stance, keeping the federal funds rate at 0 to 1/4 percent and continuing large-scale asset purchases. Policy will remain accommodative until maximum employment is reached and inflation moderately exceeds its 2% target for some time. The focus is on supporting economic recovery amid the challenges of the COVID-19 pandemic.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent until labor market and inflation goals are achieved."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will increase Treasury holdings by at least $80 billion and agency MBS by at least $40 billion per month until substantial progress is made toward goals."
+            }
+        ],
+        "risks": [
+            "Course of the virus and progress on vaccinations",
+            "Public health crisis weighing on economic activity, employment, and inflation"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2021.01.27 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained a highly accommodative stance, keeping the federal funds rate at 0 to 1/4 percent and continuing large-scale asset purchases of Treasuries and MBS. Forward guidance explicitly ties policy normalization to achieving maximum employment and an average inflation target of 2%. The Committee aims for inflation to moderately exceed 2% for some time to offset previous shortfalls.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "All members agreed to maintain the target range for the federal funds rate at 0 to 1/4 percent until labor market conditions reach maximum employment and inflation is on track to moderately exceed 2%."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will continue increasing Treasury holdings by $80 billion per month and agency MBS by $40 billion per month until substantial further progress is made toward employment and price stability goals."
+            }
+        ],
+        "risks": [
+            "Pandemic trajectory and the emergence of new virus strains",
+            "Public resistance to vaccination or difficulties in vaccine production and distribution",
+            "Downside risks to economic activity and inflation if public health crises continue to weigh on the economy"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2021.02.17 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, January 26-27, 2021"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0 to 1/4 percent and continued its aggressive quantitative easing program of Treasury and mortgage-backed securities purchases. Policy will remain accommodative until maximum employment is achieved and inflation moderately exceeds the 2% target for some time. The Committee highlighted that economic recovery remains dependent on the course of the virus and vaccination progress.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent and expects to maintain this until goals are met."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee will aim to achieve inflation moderately above 2 percent for some time so that inflation averages 2 percent over time."
+            }
+        ],
+        "risks": [
+            "Course of the virus and progress on vaccinations",
+            "Persistent weakness in sectors most adversely affected by the pandemic"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2021.03.17 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained a highly accommodative monetary policy stance, keeping the federal funds rate at 0 to 1/4 percent and continuing monthly asset purchases of $120 billion. Policy is explicitly tied to outcome-based guidance, targeting both maximum employment and an average inflation rate of 2% over time. Asset purchases will persist until substantial further progress toward these dual mandate goals is realized.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee expects to maintain the target range at 0 to 1/4 percent until labor market conditions reach maximum employment and inflation moderately exceeds 2% for some time."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will continue increasing Treasury holdings by $80 billion and agency MBS by $40 billion per month until substantial further progress is made toward its goals."
+            }
+        ],
+        "risks": [
+            "Emergence of more contagious virus strains and obstacles in vaccination efforts",
+            "Supply disruptions and production bottlenecks causing unexpected inflationary pressure",
+            "Social-distancing fatigue affecting the pace of economic recovery",
+            "Financial stress in the Commercial Real Estate (CRE) sector",
+            "The unwinding of mortgage forbearance and eviction moratoriums"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2021.04.07 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, March 16-17, 2021"
+    },
+    {
+        "summary": "The Federal Reserve maintains a highly accommodative monetary policy stance, keeping the federal funds rate at 0 to 1/4 percent. The Committee will continue large-scale asset purchases and maintain low rates until maximum employment is achieved and inflation moderately exceeds 2%. This approach reflects a commitment to support the economy's recovery from the pandemic.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee will maintain target rates until labor market conditions reach maximum employment and inflation moderately exceeds 2 percent for some time."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will continue increasing holdings of Treasury securities by at least $80 billion and agency MBS by at least $40 billion per month."
+            }
+        ],
+        "risks": [
+            "Ongoing public health crisis continuing to weigh on the economy",
+            "Potential risks emerging that could impede the attainment of maximum employment and price stability goals"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2021.04.28 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintains a highly accommodative monetary policy stance, keeping the federal funds rate at 0 to 0.25% and continuing large-scale asset purchases. Policy will remain loose until maximum employment is achieved and inflation moderately exceeds 2% for some time to reach an average of 2%. The Committee explicitly characterizes recent increases in inflation as transitory.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed expects to maintain the target range until labor market conditions are consistent with maximum employment and inflation is on track to moderately exceed 2 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee will continue increasing Treasury holdings by at least $80 billion and agency MBS by at least $40 billion per month until substantial progress is made toward goals."
+            }
+        ],
+        "risks": [
+            "COVID-19 variants that are more contagious or resistant to vaccines posing downside risks to the economic outlook.",
+            "Supply chain bottlenecks and input shortages potentially putting upward pressure on prices longer than anticipated.",
+            "Elevated risk appetite in capital markets leading to high asset valuations and potential financial stability risks.",
+            "Uneven labor market recovery across different demographic and income groups."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2021.05.19 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, April 27-28, 2021"
+    },
+    {
+        "summary": "The Federal Reserve is maintaining an accommodative monetary policy stance, keeping the federal funds rate at 0 to 1/4 percent. The Committee will maintain this target range until maximum employment is reached and inflation moderately exceeds 2% for some time. Additionally, the Fed continues its quantitative easing program through monthly purchases of Treasury securities and agency mortgage-backed securities.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee expects to maintain the current rate range until labor market conditions reach maximum employment and inflation is on track to moderately exceed 2% for some time."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Fed will continue increasing holdings of Treasury securities by at least $80 billion per month and agency MBS by at least $40 billion per month."
+            }
+        ],
+        "risks": [
+            "Risks to the economic outlook based on the course of the virus.",
+            "Potential emergence of risks that could impede the attainment of maximum employment and price stability goals."
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2021.06.16 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained a highly accommodative stance, keeping the federal funds rate at 0 to 0.25% and continuing monthly asset purchases of Treasuries and MBS. Policy will remain supportive until maximum employment is reached and inflation moderately exceeds 2% for some time. Recent spikes in inflation were explicitly characterized as reflecting transitory factors.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee expects to maintain the target range until labor market conditions are consistent with maximum employment and inflation is on track to moderately exceed 2%."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "Participants viewed the recent rise in inflation as largely reflecting transitory factors and aimed for inflation to average 2% over time."
+            }
+        ],
+        "risks": [
+            "Supply chain disruptions and labor shortages could cause inflationary pressures to persist longer than anticipated.",
+            "Risks to the economic outlook remain tilted to the downside due to potential more-contagious COVID-19 variants.",
+            "Uneven recovery in the labor market across different demographic and income groups."
+        ],
+        "importance": 0.8,
+        "confidence": 0.95,
+        "time": "2021.07.07 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, June 15-16, 2021"
+    },
+    {
+        "summary": "The Federal Reserve is maintaining an accommodative monetary policy stance, keeping the federal funds rate at 0 to 1/4 percent. The Committee aims for inflation to moderately exceed 2 percent for some time to achieve an average of 2 percent over the longer run. Policy will remain accommodative until maximum employment is reached and inflation targets are sustainably met.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee expects to maintain the target range for the federal funds rate at 0 to 1/4 percent until labor market and inflation goals are achieved."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Fed will aim for inflation moderately above 2 percent for some time to average 2 percent over time, describing recent rises as reflecting transitory factors."
+            }
+        ],
+        "risks": [
+            "The course of the virus and its continued effect on the economic outlook",
+            "Risks that could impede the attainment of maximum employment and price stability goals"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2021.07.28 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained a highly accommodative monetary policy stance, keeping the federal funds rate at 0 to 0.25% and continuing monthly asset purchases of $120 billion. While reaffirming that inflation is transitory, the Committee acknowledged progress toward its dual mandate goals, signaling a potential future reduction in the pace of asset purchases. Policy remains contingent on achieving broad-based maximum employment and an average inflation rate of 2%.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee expects to maintain the target range until labor market conditions reach maximum employment and inflation is on track to moderately exceed 2%."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.6,
+                "reason": "Members acknowledged that the economy has made progress toward goals since December, with many judging it appropriate to start reducing the pace of asset purchases later this year or early next."
+            }
+        ],
+        "risks": [
+            "The Delta variant potentially delaying the full reopening of the economy and restraining hiring.",
+            "Upside risks to inflation if supply chain disruptions and labor shortages linger longer than anticipated.",
+            "Elevated asset valuations across multiple classes creating vulnerabilities for financial stability."
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2021.08.18 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, July 27-28, 2021"
+    },
+    {
+        "summary": "The Federal Reserve maintains an accommodative monetary policy stance, keeping the federal funds rate at 0 to 1/4 percent. The Committee aims for inflation to moderately exceed 2% for some time to achieve a long-run average of 2%. Additionally, it signals that a moderation in the pace of asset purchases may soon be warranted if economic progress continues.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.6,
+                "reason": "The Committee judges that a moderation in the pace of asset purchases may soon be warranted if progress continues broadly as expected."
+            }
+        ],
+        "risks": [
+            "Rise in COVID-19 cases slowing economic recovery",
+            "Risks to the economic outlook stemming from the public health crisis"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2021.09.22 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0 to 1/4 percent, keeping an accommodative stance to support maximum employment and price stability. Crucially, the Committee signaled that a moderation in the pace of asset purchases may soon be warranted if economic progress continues as expected. Interest rates are expected to remain low until labor market conditions reach maximum employment and inflation is on track to moderately exceed 2%.",
+        "macro_drivers": [
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee explicitly stated that if progress continues broadly as expected, a moderation in the pace of asset purchases may soon be warranted."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "The Fed reaffirmed that it would maintain the current target range until inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation due to persistent supply disruptions and labor shortages",
+            "Potential for longer-run inflation expectations to move appreciably higher",
+            "Downside risks to economic activity driven by the uncertain course of the COVID-19 pandemic",
+            "Financial stability risks resulting from high levels of monetary accommodation"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2021.10.13 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, September 21-22, 2021"
+    },
+    {
+        "summary": "The Federal Reserve maintains an accommodative policy stance, keeping the federal funds rate at 0 to 1/4 percent until maximum employment and inflation targets are achieved. While rates remain low, the Committee has decided to begin reducing the monthly pace of its net asset purchases. The Fed aims for inflation to moderately exceed 2% for some time to achieve a long-run average of 2%.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent until labor market conditions and inflation goals are met."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee decided to begin reducing the monthly pace of its net asset purchases for Treasury securities and agency mortgage-backed securities."
+            }
+        ],
+        "risks": [
+            "Course of the virus impacting economic activity and employment",
+            "Supply and demand imbalances leading to sizable price increases",
+            "Rise in COVID-19 cases slowing recovery in adversely affected sectors"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2021.11.03 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0 to 1/4 percent but initiated a reduction in the pace of net asset purchases (tapering) starting mid-November. While the overall stance remains accommodative to achieve an average inflation target of 2%, the Committee signaled that the criteria for substantial progress toward its dual mandate have been met. Future rate hikes are contingent on labor market conditions and inflation sustainably exceeding 2%.",
+        "macro_drivers": [
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee decided to reduce the monthly pace of net asset purchases by $10 billion for Treasury securities and $5 billion for agency MBS."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "The Fed expects to maintain the current target range until labor market conditions reach maximum employment and inflation is on track to moderately exceed 2%."
+            }
+        ],
+        "risks": [
+            "Inflation pressures proving more persistent than the 'transitory' expectation",
+            "Severe and persistent supply chain disruptions and production bottlenecks",
+            "A new sizable wave of COVID-19 cases damping economic activity in winter",
+            "Potential unanchoring of longer-term inflation expectations"
+        ],
+        "importance": 0.8,
+        "confidence": 0.9,
+        "time": "2021.11.24 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, November 2-3, 2021"
+    },
+    {
+        "summary": "The Federal Reserve maintained the target range for the federal funds rate at 0 to 1/4 percent while initiating a reduction in the monthly pace of its net asset purchases. Monetary policy remains accommodative, with rates expected to stay low until labor market conditions reach levels consistent with maximum employment.",
+        "macro_drivers": [
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee decided to reduce the monthly pace of net asset purchases by $20 billion for Treasury securities and $10 billion for agency mortgage-backed securities."
+            },
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee decided to keep the target range for the federal funds rate at 0 to 1/4 percent until labor market conditions have reached levels consistent with maximum employment."
+            }
+        ],
+        "risks": [
+            "New variants of the virus",
+            "Supply and demand imbalances contributing to elevated inflation"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2021.12.15 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 0 to 1/4 percent but pivoted toward a more restrictive stance by accelerating the reduction of net asset purchases, aiming for a mid-March 2022 conclusion. The Committee removed the term 'transitory' from its inflation assessment and updated forward guidance to indicate that inflation criteria have already been met. Future rate hikes are now primarily contingent on labor market conditions reaching maximum employment, which is expected relatively soon.",
+        "macro_drivers": [
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to double the pace of reducing net asset purchases by $20 billion for Treasuries and $10 billion for MBS monthly, accelerating the end date to mid-March 2022."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "Members agreed to remove the reference to 'transitory' factors as inflation had been higher and more persistent than previously anticipated."
+            }
+        ],
+        "risks": [
+            "The Omicron variant potentially weighing on economic activity or exacerbating supply bottlenecks.",
+            "Risk that elevated inflation could unanchor longer-term inflation expectations above the 2 percent objective.",
+            "Persistent real wage growth in excess of productivity triggering inflationary wage-price dynamics."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.01.05 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, December 14-15, 2021"
+    },
+    {
+        "summary": "The FOMC maintained the target range for federal funds rates at 0 to 1/4 percent but signaled that a rate hike will soon be appropriate given high inflation and labor market strength. Additionally, the Committee detailed the wind-down of net asset purchases, with a scheduled end in early March.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee expects it will soon be appropriate to raise the target range for the federal funds rate due to inflation well above 2 percent and a strong labor market."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to continue reducing the monthly pace of net asset purchases, bringing them to an end in early March."
+            }
+        ],
+        "risks": [
+            "New variants of the virus",
+            "Supply and demand imbalances related to the pandemic"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.01.26 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 0-0.25% but explicitly signaled that it would soon be appropriate to raise rates due to elevated inflation and a strong labor market. Net asset purchases are scheduled to conclude in early March, with a plan to reduce the balance sheet predictably once rate hikes begin. The overall policy stance is pivoting from accommodative toward restrictive.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee noted that inflation was well above 2 percent and persisting longer than anticipated, with risks skewed to the upside."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to reduce the monthly pace of net asset purchases to bring them to an end in early March."
+            }
+        ],
+        "risks": [
+            "Omicron variant and potential new variants weighing on economic activity",
+            "Upside risks to inflation from China's zero-tolerance COVID-19 policy and geopolitical turmoil",
+            "Potential for long-term inflation expectations to become unanchored",
+            "Risk of undue tightening in financial conditions resulting from a rapid removal of policy accommodation"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.02.16 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, January 25–26, 2022"
+    },
+    {
+        "summary": "The Committee raised the target range for the federal funds rate to 0.25% to 0.50% and signaled that ongoing increases will be appropriate to combat elevated inflation. Additionally, the Fed intends to begin reducing its holdings of Treasury and agency mortgage-backed securities at a future meeting. The policy aim is to return inflation to the 2 percent objective while maintaining maximum employment.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee raised the target range for the federal funds rate and anticipates that ongoing increases in the target range will be appropriate."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee expects to begin reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities at a coming meeting."
+            }
+        ],
+        "risks": [
+            "Upward pressure on inflation and negative impact on economic activity due to the Russian invasion of Ukraine",
+            "Elevated inflation reflecting pandemic-related supply and demand imbalances",
+            "Higher energy prices and broader price pressures"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.03.16 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate by 25 basis points to a target range of 0.25%-0.50% and signaled that ongoing increases are warranted to combat elevated inflation. The Committee also announced plans to begin reducing its balance sheet as early as May, establishing a framework for monthly runoff caps. Policy is being shifted expeditiously toward a neutral posture while monitoring the inflationary and growth impacts of the Russian invasion of Ukraine.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee decided to raise the target range for the federal funds rate and anticipates that ongoing increases in the target range will be appropriate."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "All participants indicated a strong commitment to restore price stability as inflation remained elevated due to supply-demand imbalances and surging energy prices."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from the Russian invasion of Ukraine affecting energy and food prices",
+            "Potential for longer-run inflation expectations to become unanchored",
+            "Downside risks to economic activity due to geopolitical conflict and tighter global financial conditions",
+            "Supply chain disruptions stemming from COVID-19 lockdowns in China"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.04.06 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, March 15-16, 2022"
+    },
+    {
+        "summary": "The Committee raised the federal funds rate to a target range of 0.75% to 1% and signaled that ongoing increases will be appropriate to combat elevated inflation. Additionally, the Fed announced it will begin reducing its balance sheet holdings of Treasury securities and agency debt starting June 1. The overall stance is restrictive to ensure inflation returns to the 2% objective while maintaining a strong labor market.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee raised the target range for the federal funds rate and anticipates that ongoing increases will be appropriate."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to begin reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities on June 1."
+            }
+        ],
+        "risks": [
+            "Upward pressure on inflation due to the invasion of Ukraine by Russia",
+            "Supply chain disruptions exacerbated by COVID-related lockdowns in China",
+            "Uncertainty regarding the implications of the Russia-Ukraine conflict for the U.S. economy"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2022.05.04 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Committee adopted a strongly hawkish stance, raising the federal funds rate by 50 basis points and initiating quantitative tightening starting June 1st to combat elevated inflation. Forward guidance indicates an expedited move toward a neutral policy posture with ongoing rate increases anticipated. The Fed remains highly attentive to upside inflation risks while monitoring a very tight labor market.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee raised the target range for the federal funds rate to 3/4 to 1 percent and anticipates that ongoing increases would be appropriate."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to begin reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities on June 1."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from the Russian invasion of Ukraine and surges in energy and commodity prices.",
+            "Exacerbation of supply chain disruptions due to COVID-related lockdowns in China.",
+            "The risk that persistently high inflation could cause longer-term inflation expectations to become unanchored."
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2022.05.22 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, May 3-4, 2022"
+    },
+    {
+        "summary": "The FOMC raised the target range for the federal funds rate to 1-1/2 to 1-3/4 percent and signaled that further increases are appropriate. The Committee remains strongly committed to returning inflation to its 2 percent objective while continuing to reduce its balance sheet holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee raised the target range and anticipates that ongoing increases will be appropriate."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective amid elevated price pressures."
+            }
+        ],
+        "risks": [
+            "Upward pressure on inflation and weighing on global economic activity due to the invasion of Ukraine",
+            "Supply chain disruptions exacerbated by COVID-related lockdowns in China"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.06.15 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate by 75 basis points to a range of 1.5%-1.75%, explicitly signaling a transition toward a restrictive policy stance to combat elevated inflation. The Committee reaffirmed its strong commitment to returning inflation to its 2% objective and indicated that ongoing rate increases are appropriate. Additionally, the Fed is continuing its quantitative tightening through the monthly reduction of Treasury and agency MBS holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee raised rates by 75 basis points and stated that moving to a restrictive stance of policy was required to meet its mandate."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "Participants noted inflation remains well above the 2% objective and expressed concern that longer-run inflation expectations could be drifting upward."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from ongoing supply bottlenecks and rising energy/commodity prices related to the war in Ukraine.",
+            "Downside risks to economic growth from further tightening of financial conditions and China's zero-COVID policy.",
+            "Risk of inflation expectations becoming unanchored, which would make it more costly to return inflation to target."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.07.06 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, June 14-15, 2022"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate to 2-1/4% to 2-1/2% and signaled that further increases are appropriate to address elevated inflation. The Committee remains strongly committed to its 2 percent inflation target and will continue reducing its balance sheet holdings. This reflects a restrictive policy stance amid robust labor market conditions.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee raised the target range to 2-1/4 to 2-1/2 percent and anticipates that ongoing increases will be appropriate."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities."
+            }
+        ],
+        "risks": [
+            "Russia's war against Ukraine creating additional upward pressure on inflation",
+            "Geopolitical tensions weighing on global economic activity",
+            "Supply and demand imbalances related to the pandemic"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.07.27 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the target range for the federal funds rate by 75 basis points to 2-1/4% to 2-1/2%, signaling a move toward a restrictive monetary policy stance. The Committee remains strongly committed to returning inflation to its 2% objective and anticipates ongoing rate increases based on incoming data. Additionally, the Fed will continue reducing its holdings of Treasury securities and agency mortgage-backed securities.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "Participants observed that inflation remained unacceptably high and was well above the Committee's longer-run goal of 2 percent."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The labor market was characterized as very tight with robust job gains, supporting the need for a restrictive policy stance to reduce upward pressures on nominal wage growth."
+            }
+        ],
+        "risks": [
+            "Inflation expectations becoming unanchored",
+            "Upside risks to inflation from commodity markets and further supply shocks",
+            "Downside risks to real GDP growth due to tightening financial conditions or geopolitical disturbances",
+            "The risk of over-tightening monetary policy beyond what is necessary to restore price stability"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2022.08.17 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, July 26–27, 2022"
+    },
+    {
+        "summary": "The FOMC raised the target range for the federal funds rate to 3-3.25% to combat elevated inflation. The Committee anticipates further rate increases and will continue reducing its holdings of Treasury securities and agency debt. It remains strongly committed to returning inflation to its 2 percent objective.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee raised the target range and anticipates that ongoing increases will be appropriate."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "Inflation remains elevated, and the Committee is strongly committed to returning it to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Russia's war against Ukraine creating additional upward pressure on inflation",
+            "Supply and demand imbalances related to the pandemic",
+            "Higher food and energy prices"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2022.09.21 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Committee adopted a highly restrictive policy stance, raising the target range for the federal funds rate by 75 basis points to 3-3.25%. They signaled that ongoing rate increases and continued balance sheet runoff are necessary to combat unacceptably high inflation and return it to the 2% objective. The Fed explicitly noted that a softening of the tight labor market would likely be required to ease upward pressures on wages and prices.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee raised the target range by 75 basis points and anticipates that 'ongoing increases in the target range will be appropriate'."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "Participants described inflation as 'unacceptably high' and reaffirmed a 'strong commitment to returning inflation to its 2 percent objective'."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from energy price shocks and the potential emergence of a wage-price spiral.",
+            "Downside risks to real GDP growth due to global headwinds, including recession risks in Europe and economic slowdown in China.",
+            "The risk that cumulative restraint in aggregate demand could exceed what is required to bring inflation back to 2%."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.10.12 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, September 20–21, 2022"
+    },
+    {
+        "summary": "The FOMC raised the target range for the federal funds rate to 3-3/4 to 4 percent and indicated that ongoing increases are necessary to return inflation to 2 percent. The Committee remains committed to a restrictive monetary policy stance and is continuing its quantitative tightening program. Future adjustments will be data-dependent, monitoring labor market conditions and inflation pressures.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective as current levels remain elevated."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee anticipates that ongoing increases in the target range will be appropriate to attain a sufficiently restrictive stance of monetary policy."
+            }
+        ],
+        "risks": [
+            "Russia's war against Ukraine creating additional upward pressure on inflation and weighing on global economic activity",
+            "Supply and demand imbalances related to the pandemic"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.11.02 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate by 75 basis points to a target range of 3.75%-4% and reaffirmed its commitment to reaching a sufficiently restrictive stance to return inflation to 2%. While anticipating ongoing increases, a substantial majority of participants indicated that slowing the pace of future hikes would likely soon be appropriate. The Committee also continued its quantitative tightening program to reduce its securities holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "Participants agreed that inflation was unacceptably high and well above the 2 percent goal, with risks skewed to the upside."
+            },
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee raised rates by 75 basis points and anticipates that ongoing increases are appropriate to achieve a restrictive stance."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation including potential wage-price spirals and energy price shocks from geopolitical tensions.",
+            "Downside risks to real activity driven by global headwinds, the war in Ukraine, and economic slowdowns in China.",
+            "Financial system instability or dislocations resulting from rapid monetary policy tightening and leverage in nonbank financial institutions."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2022.11.23 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, November 1-2, 2022"
+    },
+    {
+        "summary": "The Federal Reserve raised the target range for the federal funds rate to 4-1/4 to 4-1/2 percent to combat elevated inflation. The Committee signaled that ongoing rate increases will be appropriate to achieve a sufficiently restrictive policy stance. Additionally, the Fed is continuing its quantitative tightening by reducing holdings of Treasury and agency securities.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee anticipates that ongoing increases in the target range will be appropriate to return inflation to 2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Inflation remains elevated and the Committee is strongly committed to returning it to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Upward pressure on inflation due to Russia's war against Ukraine",
+            "Global economic activity being weighed down by geopolitical events",
+            "Supply and demand imbalances related to the pandemic"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2022.12.14 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate by 50 basis points to 4.25%-4.50%, signaling a continued path of increases to achieve a sufficiently restrictive stance. The Committee remains strongly committed to returning inflation to its 2% target despite recent moderation in price indices. Balance sheet runoff (QT) also continues as planned.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "Participants agreed that inflation was unacceptably high and deemed restrictive policy essential to return it to the 2 percent goal."
+            },
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee raised rates by 50 basis points and anticipates ongoing increases will be appropriate to attain a sufficiently restrictive stance."
+            }
+        ],
+        "risks": [
+            "Persistent inflation causing long-term expectations to become unanchored.",
+            "Lagged cumulative effects of tightening leading to an unnecessary reduction in economic activity or recession.",
+            "Global economic instability resulting from Russia's war against Ukraine and China's COVID-19 policies."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.01.04 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, December 13-14, 2022"
+    },
+    {
+        "summary": "The FOMC raised the target range for the federal funds rate to 4-1/2 to 4-3/4 percent to address elevated inflation. The Committee anticipates ongoing rate increases to achieve a sufficiently restrictive monetary stance and will continue its balance sheet reduction program. Its primary goal remains returning inflation to the 2 percent objective.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee decided to raise the target range and anticipates that ongoing increases will be appropriate to return inflation to 2 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities."
+            }
+        ],
+        "risks": [
+            "Elevated inflation remaining above the 2 percent target",
+            "Global uncertainty caused by Russia's war against Ukraine"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.02.01 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the target federal funds rate by 25 basis points to 4.5-4.75%, signaling a slower pace of tightening to allow for better assessment of economic progress. The Committee remains strongly committed to returning inflation to its 2% goal and anticipates that ongoing rate increases will be appropriate. Quantitative tightening via the reduction of securities holdings continues as previously planned.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee anticipates that ongoing increases in the target range will be appropriate to attain a stance of monetary policy that is sufficiently restrictive."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "Participants agreed that inflation remained unacceptably high and the Committee is strongly committed to returning it to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Inflation remaining persistent if the labor market stays tighter for longer than anticipated",
+            "Downside risks to economic activity, including a plausible possibility of a recession in 2023",
+            "Financial system disruptions and broader economic risks associated with the statutory debt limit"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.02.22 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, January 31–February 1, 2023"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate to 4.75%-5% and signaled that further policy firming may be appropriate to return inflation to its 2% target. The Committee continues its quantitative tightening program while remaining highly attentive to inflation risks. It also noted that tighter credit conditions could negatively impact economic activity and hiring.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee raised the target range to 4-3/4 to 5 percent and anticipates that some additional policy firming may be appropriate."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective as inflation remains elevated."
+            }
+        ],
+        "risks": [
+            "Recent developments resulting in tighter credit conditions for households and businesses which may weigh on economic activity and hiring."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.03.22 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate by 25 basis points to a range of 4.75% to 5% and confirmed the continuation of quantitative tightening. While acknowledging that recent banking sector stresses may tighten credit conditions, the Committee anticipates further policy firming to reach a sufficiently restrictive stance. They remain strongly committed to returning inflation to their 2% long-run goal.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee stated that inflation remains elevated and they are strongly committed to returning it to the 2 percent objective."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The Committee anticipates that some additional policy firming may be appropriate to attain a sufficiently restrictive monetary policy stance."
+            }
+        ],
+        "risks": [
+            "Banking sector developments leading to tighter credit conditions and significant restraint on economic activity",
+            "More persistent-than-anticipated price pressures due to resilient labor demand",
+            "Potential for a mild recession starting later in the year as projected by staff"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.04.12 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, March 21-22, 2023"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate to 5-5.25% and reaffirmed its strong commitment to returning inflation to 2%. The Committee indicated that additional policy firming may be appropriate based on incoming data and will continue its balance sheet reduction program.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to raise the target range for the federal funds rate to 5 to 5-1/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Tighter credit conditions for households and businesses weighing on economic activity, hiring, and inflation"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.05.03 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve raised the federal funds rate by 25 basis points to a range of 5% to 5.25% and affirmed its commitment to continuing quantitative tightening. While remaining strongly committed to the 2% inflation goal, the Committee adopted a more data-dependent approach to future hikes, citing uncertainty over banking sector stress and lagged policy effects. The overall stance remains restrictive to bring aggregate supply and demand into better balance.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The members agreed to raise the target range for the federal funds rate 25 basis points to 5 percent to 5-1/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "Participants agreed that inflation was unacceptably high and reaffirmed a strong commitment to returning it to the 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Banking sector stress causing tighter credit conditions that could weigh on economic activity and hiring.",
+            "Upside risks to inflation if price pressures prove more persistent than anticipated due to a tight labor market.",
+            "Potential financial system disruptions if the federal debt limit is not raised or suspended in a timely manner."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.05.24 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, May 2-3, 2023"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5% to 5-1/4%, keeping policy restrictive while pausing to assess economic data. The Committee remains strongly committed to returning inflation to its 2% objective and signaled that additional policy firming may be appropriate. Quantitative tightening continues through the planned reduction of Treasury and agency mortgage-backed securities.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective as it remains elevated."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The FOMC mentioned determining the extent of 'additional policy firming that may be appropriate' to reach the inflation target."
+            }
+        ],
+        "risks": [
+            "Tighter credit conditions for households and businesses weighing on economic activity and hiring",
+            "Uncertainty regarding the lags with which monetary policy affects inflation and growth"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.06.14 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5% to 5.25%, citing unacceptably high inflation and a tight labor market. While pausing to assess incoming data, most participants indicated that additional rate increases in 2023 would be appropriate to return inflation to the 2% objective. The committee also affirmed its commitment to continue reducing its holdings of Treasury and agency securities.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "Members agreed that inflation remained unacceptably high and affirmed a strong commitment to returning it to the 2 percent objective."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Almost all participants judged that additional increases in the target federal funds rate during 2023 would be appropriate."
+            }
+        ],
+        "risks": [
+            "Longer-term inflation expectations becoming unanchored",
+            "Downside risks to economic growth and upside risks to unemployment from cumulative tightening",
+            "Further tightening of credit conditions stemming from banking-sector stress",
+            "Potential risks arising from weakness in commercial real estate"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.07.05 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, June 13-14, 2023"
+    },
+    {
+        "summary": "The FOMC raised the target range for the federal funds rate to 5-1/4 to 5-1/2 percent and reaffirmed its strong commitment to returning inflation to 2 percent. The Committee will consider cumulative tightening and policy lags when determining further firming, while continuing its balance sheet reduction.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to raise the target range for the federal funds rate to 5-1/4 to 5-1/2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Tighter credit conditions for households and businesses weighing on economic activity, hiring, and inflation",
+            "Uncertainty regarding the extent of the effects of tighter credit conditions"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.07.26 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC raised the federal funds rate target range to 5.25% - 5.5%, maintaining a restrictive policy stance to return inflation to its 2% objective. The Committee highlighted a data-dependent approach, noting that risks have become more two-sided as they balance potential overtightening against insufficient tightening. Balance sheet runoff via quantitative tightening also continues according to previous plans.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee decided to raise the target range for the federal funds rate to 5-1/4 to 5-1/2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "All members affirmed that they are strongly committed to returning inflation to their 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Persistent elevated inflation or unanchoring of inflation expectations.",
+            "A sharper-than-expected economic slowdown resulting from cumulative monetary policy tightening.",
+            "Tightening credit conditions in the banking sector weighing on economic activity and hiring."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.08.16 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, July 25-26, 2023"
+    },
+    {
+        "summary": "The FOMC maintained the target range for the federal funds rate at 5-1/4 to 5-1/2 percent, reaffirming a strong commitment to returning inflation to its 2 percent objective. The Committee remains open to additional policy firming while continuing its balance sheet reduction program.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective as inflation remains elevated."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The Committee mentioned determining the extent of additional policy firming that may be appropriate to return inflation to 2 percent."
+            }
+        ],
+        "risks": [
+            "Tighter credit conditions for households and businesses weighing on economic activity, hiring, and inflation.",
+            "Uncertainty regarding the lags with which monetary policy affects economic activity and inflation."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.09.20 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5.25% to 5.50%, characterizing the current policy stance as restrictive and necessary to return inflation to its 2% objective. The Committee signaled a data-dependent approach, with a majority of participants viewing one further rate increase as possible while shifting focus toward how long rates should remain restrictive. There was unanimous agreement to continue the quantitative tightening process by reducing securities holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "Participants stressed that current inflation remained unacceptably high and reaffirmed a strong commitment to returning it to the 2% objective."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "A majority of participants judged that one more increase in the target federal funds rate at a future meeting would likely be appropriate."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from rising energy prices or persistent core services inflation",
+            "Downside risks to economic activity due to lagged effects of monetary policy tightening",
+            "Vulnerabilities in the Commercial Real Estate (CRE) sector",
+            "Potential for the autoworkers' strike to disrupt production and increase automobile prices"
+        ],
+        "importance": 0.85,
+        "confidence": 1.0,
+        "time": "2023.10.11 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, September 19-20, 2023"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5-1/4 to 5-1/2 percent, emphasizing a strong commitment to returning inflation to its 2 percent objective. The Committee remains open to further policy firming based on incoming data and the cumulative effects of tightening. Quantitative tightening continues through the reduction of Treasury and agency mortgage-backed securities.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective and remains highly attentive to inflation risks."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The Fed noted it will determine the extent of 'additional policy firming' that may be appropriate to return inflation to target."
+            }
+        ],
+        "risks": [
+            "Uncertainty regarding how tighter financial and credit conditions will weigh on economic activity, hiring, and inflation."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.11.01 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5.25% to 5.5%, affirming that the current policy stance is restrictive and necessary to return inflation to the 2% target. The Committee remains data-dependent, noting that further tightening may be appropriate if progress toward inflation goals is insufficient. Quantitative tightening continues through the ongoing reduction of the Federal Reserve's securities holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "Participants stressed that current inflation remained unacceptably high and expressed a strong commitment to returning it to the 2% objective."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The Committee noted that further tightening of monetary policy would be appropriate if incoming information indicated insufficient progress toward the inflation objective."
+            }
+        ],
+        "risks": [
+            "Persistence or reacceleration of inflation due to continued economic momentum.",
+            "Upside risks to oil prices stemming from geopolitical tensions in the Middle East.",
+            "Downside risks to economic activity and balance sheets caused by cumulative policy tightening and tighter financial conditions.",
+            "Financial stability concerns related to a potential sharp decline in Commercial Real Estate (CRE) valuations."
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2023.11.21 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, October 31-November 1, 2023"
+    },
+    {
+        "summary": "The Committee maintained the federal funds rate at 5-1/4 to 5-1/2 percent and reaffirmed its strong commitment to returning inflation to the 2 percent objective. While noting a slowdown in economic activity, the Fed remains prepared to implement additional policy firming if necessary. Quantitative tightening continues through the ongoing reduction of Treasury and agency securities holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee is strongly committed to returning inflation to its 2 percent objective as inflation remains elevated."
+            },
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The Fed mentioned determining the extent of any additional policy firming that may be appropriate to return inflation to 2 percent."
+            }
+        ],
+        "risks": [
+            "Inflation remaining elevated despite recent easing",
+            "Uncertainty regarding the magnitude of the impact of tighter financial conditions on economic activity and hiring",
+            "Lags with which monetary policy affects economic activity and inflation"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2023.12.13 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5.25%–5.50%, stating that the current policy stance is restrictive and likely at or near its peak for this tightening cycle. While remaining strongly committed to the 2% inflation target, participants noted that risks to inflation and employment are moving toward a greater balance. Forward guidance remains data-dependent, with most members anticipating rate reductions in 2024 while leaving open the possibility of further firming if risks emerge.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "Participants viewed the policy rate as likely at or near its peak, with most baseline projections implying a lower target range by the end of 2024."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee remains highly attentive to inflation risks and strongly committed to returning inflation to its 2% objective as it remains elevated."
+            }
+        ],
+        "risks": [
+            "Inflation proving more persistent than expected or adverse supply shocks occurring.",
+            "An abrupt downshift in labor market conditions if demand weakens substantially further.",
+            "Excessive easing of financial conditions making it more difficult to reach the inflation goal.",
+            "Overly restrictive monetary policy creating significant downside risks to economic activity."
+        ],
+        "importance": 0.8,
+        "confidence": 0.95,
+        "time": "2024.01.03 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, December 12-13, 2023"
+    },
+    {
+        "summary": "The FOMC has decided to maintain the federal funds rate at 5-1/4 to 5-1/2 percent and will continue its quantitative tightening program. The Committee signaled that interest rate reductions are unlikely until there is greater confidence that inflation is sustainably moving toward the 2 percent target.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee does not expect it will be appropriate to reduce the target range until inflation moves sustainably toward 2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee remains highly attentive to inflation risks and is strongly committed to returning inflation to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Inflation remaining elevated despite recent easing",
+            "Uncertainty in the economic outlook that could impede goals",
+            "Potential volatility in labor market conditions"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.01.31 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5.25%–5.5%, signaling that the policy rate has likely reached its peak for this tightening cycle. While risks to inflation and employment are moving into better balance, the Committee stated it requires greater confidence that inflation is sustainably returning to 2% before reducing rates. The Fed also committed to continuing its quantitative tightening process.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 0.8,
+                "reason": "Participants judged that the policy rate was likely at its peak for this tightening cycle."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "Members agreed they do not expect to reduce the target range until they have gained greater confidence that inflation is moving sustainably toward 2 percent."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation if aggregate demand strengthens or supply-side healing slows more than expected.",
+            "Financial conditions becoming less restrictive than appropriate, which could cause progress on inflation to stall.",
+            "Downside risks to economic activity from a weakening of household balance sheets and rising delinquency rates."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.02.21 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, January 30–31, 2024"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5.25-5.50%, noting that while inflation has eased, it remains elevated. The Committee signaled a restrictive stance, stating that rate reductions are unlikely until there is greater confidence that inflation is moving sustainably toward 2%. Quantitative tightening will continue through the reduction of Treasury and agency mortgage-backed securities.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage-backed securities."
+            }
+        ],
+        "risks": [
+            "Inflation remains elevated despite easing over the past year",
+            "Uncertainty in the economic outlook",
+            "Potential emergence of risks that could impede the attainment of employment and inflation goals"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.03.20 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5.25-5.50%, noting that while policy is likely at its peak, cuts are contingent on gaining greater confidence that inflation is moving sustainably toward 2%. The Committee continues balance sheet runoff but discussed slowing the pace of QT soon to ensure a smooth transition from abundant to ample reserves. Overall, the stance remains restrictive and strictly data-dependent.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 0.7,
+                "reason": "Participants generally favored reducing the monthly pace of balance sheet runoff by roughly half to facilitate a smooth transition to ample reserves."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from geopolitical events or supply-side disruptions",
+            "Downside risks to economic activity from slowing growth in China and deterioration in domestic commercial real estate (CRE) markets",
+            "The risk of maintaining a restrictive stance for too long, potentially unduly weakening employment"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.04.10 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, March 19-20, 2024"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5-1/4 to 5-1/2 percent, citing a lack of recent progress toward its 2 percent inflation objective. The Committee indicated that rate reductions are unlikely until there is greater confidence in inflation's sustainable decline. Additionally, the Fed announced a slowdown in the pace of its Treasury securities balance sheet reduction starting in June.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "In recent months, there has been a lack of further progress toward the Committee's 2 percent inflation objective."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent."
+            }
+        ],
+        "risks": [
+            "Lack of further progress toward the 2 percent inflation objective",
+            "Uncertainty in the overall economic outlook"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.05.01 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 5.25-5.50%, noting a recent lack of progress toward its 2% inflation objective. The Committee emphasized that it does not expect to reduce rates until it gains greater confidence in sustainable disinflation and remains open to further tightening if risks materialize. Additionally, they decided to slow the pace of balance sheet runoff starting in June.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee explicitly noted that 'in recent months, there has been a lack of further progress toward the Committee's 2 percent inflation objective.'"
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Members agreed they 'do not expect that it would be appropriate to reduce the target range until they have gained greater confidence that inflation is moving sustainably toward 2 percent.'"
+            }
+        ],
+        "risks": [
+            "Persistent inflation due to supply-side disruptions or geopolitical events",
+            "Commodity price increases putting upward pressure on prices",
+            "Insufficiently restrictive financial conditions on aggregate demand and inflation",
+            "Downside risks to economic activity from slowing growth in China or deterioration in domestic commercial real estate markets"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.05.22 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, April 30–May 1, 2024"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5-1/4 to 5-1/2 percent, noting solid economic expansion and strong labor market conditions. The Committee stated it will not reduce rates until it has greater confidence that inflation is moving sustainably toward 2%. Quantitative tightening remains in place through the ongoing reduction of Treasury and agency mortgage-backed securities holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee remains highly attentive to inflation risks and is strongly committed to returning inflation to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Uncertain economic outlook",
+            "Inflation remaining elevated despite modest progress",
+            "Risks that could impede the attainment of employment and inflation goals"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.06.12 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5.25%-5.50%, acknowledging modest recent progress toward the 2% inflation target but stating that further confidence is required before considering rate cuts. The committee continues to view its policy stance as restrictive and intends to persist with Quantitative Tightening (QT) by reducing securities holdings. Future decisions remain strictly data-dependent, balancing the dual mandate of inflation and employment.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Participants emphasized a data-dependent approach rather than a preset path, with some noting that rates might need to be raised if inflation persists at an elevated level."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from geopolitical developments, trade tensions, or expansionary fiscal policy.",
+            "Downside risks to economic activity due to a sharper-than-anticipated slowing in demand or deterioration in labor market conditions.",
+            "Financial instability stemming from fragility in the Commercial Real Estate (CRE) sector and vulnerable bank balance sheets.",
+            "Deteriorating household financial positions, evidenced by rising credit card and auto loan delinquency rates."
+        ],
+        "importance": 0.85,
+        "confidence": 1.0,
+        "time": "2024.07.03 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, June 11–12, 2024"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 5-1/4 to 5-1/2 percent, citing that inflation remains somewhat elevated despite recent progress. The Committee indicated it requires greater confidence that inflation is moving sustainably toward 2 percent before reducing rates. Quantitative tightening continues through the reduction of Treasury and agency mortgage-backed securities holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee does not expect it will be appropriate to reduce the target range until it has gained greater confidence that inflation is moving sustainably toward 2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee remains strongly committed to returning inflation to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Inflation remaining elevated and not moving sustainably toward the 2 percent target",
+            "Labor market softening as job gains moderate and unemployment rises",
+            "Uncertainty in the economic outlook impacting the balance of risks to the dual mandate"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.07.31 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 5.25-5.5% but signaled a high likelihood of easing policy at the next meeting if data remains consistent. The Committee noted that risks to its dual mandate are moving into better balance, with inflation progress improving and downside risks to employment increasing. Quantitative tightening continues through the reduction of securities holdings.",
+        "macro_drivers": [
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The vast majority observed that it would likely be appropriate to ease policy at the next meeting if data continued as expected."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "A majority of participants remarked that risks to the employment goal had increased and warned against reducing policy restraint too late."
+            }
+        ],
+        "risks": [
+            "Potential for supply chain disruptions and geopolitical conditions to create upside inflation risks.",
+            "Risk that gradual easing in labor market conditions could transition to a more serious deterioration.",
+            "Financial stability vulnerabilities including high Commercial Real Estate (CRE) exposures and systemic cyber risks."
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2024.08.21 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, July 30–31, 2024"
+    },
+    {
+        "summary": "The FOMC lowered the target range for the federal funds rate by 50 basis points to 4-3/4% to 5%, citing progress on inflation and balanced risks between its dual mandates. Future adjustments will be data-dependent, while the Committee continues its program of quantitative tightening.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 1/2 percentage point to 4-3/4 to 5 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "The Committee has gained greater confidence that inflation is moving sustainably toward 2 percent."
+            }
+        ],
+        "risks": [
+            "Uncertainty in the economic outlook affecting both employment and inflation goals",
+            "Potential for emerging risks that could impede the attainment of dual mandate objectives"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2024.09.18 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC lowered the federal funds rate by 50 basis points to a range of 4.75% to 5%, citing increased confidence that inflation is moving sustainably toward 2%. This decision reflects a shift in the balance of risks, with downside risks to employment now seen as having increased relative to diminished upside inflation risks. Future policy adjustments remain data-dependent, aiming for a more neutral stance over time.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 1/2 percentage point to 4-3/4 to 5 percent."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "Participants noted that downside risks to employment had increased and that a substantial majority supported a larger cut to sustain the strength of the labor market."
+            }
+        ],
+        "risks": [
+            "Downside risks to economic activity and employment if policy restraint is reduced too late or too little",
+            "Upside inflation risks associated with geopolitical developments",
+            "Potential for progress toward 2% inflation to be stalled by excessive easing in financial conditions or strong consumption growth",
+            "Uncertainty concerning the level of the longer-term neutral rate of interest"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2024.10.09 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, September 17-18, 2024"
+    },
+    {
+        "summary": "The FOMC lowered the federal funds rate by 25 basis points to a range of 4.25%-4.75% while continuing its quantitative tightening program. The committee views risks to its dual mandate as balanced, with inflation making progress toward 2% though remaining somewhat elevated. Future policy adjustments will be data-dependent, considering the evolving economic outlook and balance of risks.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4-1/2 to 4-3/4 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage‑backed securities."
+            }
+        ],
+        "risks": [
+            "Inflation remaining somewhat elevated above the 2 percent objective",
+            "Potential for further easing in labor market conditions as unemployment has moved up",
+            "General uncertainty in the economic outlook"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.11.07 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC lowered the target federal funds rate by 25 basis points to a range of 4.5% to 4.75%, noting that risks to its dual mandate are now roughly in balance. The Committee intends to move gradually toward a neutral policy stance, conditional on inflation continuing to move sustainably toward 2% and employment remaining solid. Quantitative tightening via the reduction of securities holdings will continue.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 25 basis points to 4-1/2 to 4-3/4 percent."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 0.7,
+                "reason": "Participants indicated that if data remains as expected, it would likely be appropriate to move gradually toward a more neutral stance of policy over time."
+            }
+        ],
+        "risks": [
+            "Persistence of elevated core inflation taking longer than expected to return to 2%.",
+            "Potential for an unwelcome weakening of the labor market.",
+            "Geopolitical developments causing sudden disruptions in global supply chains.",
+            "Financial vulnerabilities associated with Commercial Real Estate (CRE) exposures, particularly office loans."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.11.26 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, November 6-7, 2024"
+    },
+    {
+        "summary": "The FOMC lowered the target range for the federal funds rate by 25 basis points to 4-1/4% to 4-1/2%. The Committee noted that labor market conditions have generally eased and inflation remains somewhat elevated, though progress has been made toward the 2% goal. Future adjustments will depend on incoming data and the balance of risks to the dual mandate.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 1/4 percentage point."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.7,
+                "reason": "Since earlier in the year, labor market conditions have generally eased, and the unemployment rate has moved up."
+            }
+        ],
+        "risks": [
+            "Inflation remaining somewhat elevated above the 2 percent objective",
+            "Uncertainty in the economic outlook affecting the dual mandate",
+            "Potential risks that could impede the attainment of employment and inflation goals"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2024.12.18 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC lowered the federal funds rate by 25 basis points to 4.25%–4.5%, while indicating it is now at or near the point where the pace of policy easing should slow. The Committee highlighted increased upside risks to inflation due to potential trade and immigration policy changes, suggesting a more cautious, data-dependent approach toward reaching a neutral stance. Quantitative tightening continues as the Fed reduces its holdings of Treasury and agency securities.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 1/4 percentage point to 4-1/4 to 4-1/2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Almost all participants judged that upside risks to the inflation outlook had increased due to recent stronger-than-expected readings and potential policy changes."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from trade and immigration policy changes",
+            "Possibility that the disinflation process has stalled temporarily",
+            "Downside risks to labor market stability if payroll growth remains below trend",
+            "Financial vulnerabilities resulting from the overvaluation of risky assets"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.01.08 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, December 17-18, 2024"
+    },
+    {
+        "summary": "The Committee maintained the federal funds rate at 4-1/4% to 4-1/2%, noting that economic activity is expanding at a solid pace and labor markets remain strong. While inflation remains somewhat elevated, risks to the dual mandate are viewed as roughly in balance. Future policy adjustments will depend on incoming data and evolving outlooks.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "Inflation remains somewhat elevated and the Committee is strongly committed to returning it to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Economic outlook uncertainty",
+            "Risks to both employment and inflation goals",
+            "Potential emergence of risks that could impede the attainment of policy goals"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.01.29 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4.25% to 4.50% and unanimously agreed to continue reducing its securities holdings. While labor market conditions remain solid, the Committee remains cautious due to elevated inflation and upside risks associated with potential trade policy changes. Future rate adjustments are not on a preset course and depend on further evidence of inflation sustainably returning to the 2% target.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Participants noted that inflation remains somewhat elevated and highlighted upside risks stemming from potential changes in trade and immigration policy."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The Committee indicated they would want to see further progress on inflation before making additional adjustments to the target range for the federal funds rate."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation from potential changes in trade and immigration policy or geopolitical supply chain disruptions.",
+            "Downside risks to economic activity from an unexpected weakening of the labor market or tightening of financial conditions.",
+            "Financial stability vulnerabilities in Commercial Real Estate (CRE) and high leverage within nonbank financial institutions."
+        ],
+        "importance": 0.85,
+        "confidence": 1.0,
+        "time": "2025.02.19 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, January 28-29, 2025"
+    },
+    {
+        "summary": "The Federal Reserve maintained the federal funds rate at 4-1/4 to 4-1/2 percent while noting that inflation remains somewhat elevated and labor market conditions are solid. The Committee announced a significant slowdown in its quantitative tightening pace, reducing the monthly Treasury redemption cap from $25 billion to $5 billion starting in April. Future policy adjustments remain data-dependent and balanced across the dual mandate.",
+        "macro_drivers": [
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee will slow the pace of decline of its securities holdings by reducing the monthly redemption cap on Treasury securities from $25 billion to $5 billion."
+            },
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 0.8,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent."
+            }
+        ],
+        "risks": [
+            "Inflation remains somewhat elevated",
+            "Increased uncertainty around the economic outlook",
+            "Risks to both sides of the dual mandate (employment and inflation)"
+        ],
+        "importance": 0.85,
+        "confidence": 1.0,
+        "time": "2025.03.19 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4-1/4% to 4-1/2%, adopting a cautious, data-dependent approach amid increased economic uncertainty. While labor market conditions remain solid, the Committee highlighted upside risks to inflation from tariffs and downside risks to growth and employment. Notably, the Committee decided to significantly slow the pace of Treasury securities runoff starting in April.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Participants noted inflation remains somewhat elevated and specifically identified upside risks stemming from anticipated tariff increases."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee voted to significantly reduce the monthly redemption cap on Treasury securities from $25 billion to $5 billion starting in April."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation driven by potential trade policy changes and tariffs",
+            "Downside risks to economic growth and employment due to weakening consumer sentiment and policy uncertainty",
+            "Potential for difficult policy tradeoffs if inflation remains persistent while economic activity weakens",
+            "Risk of reserve scarcity in the banking system during a period of rapid TGA increase"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2025.04.09 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, March 18–19, 2025"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4-1/4 to 4-1/2 percent and will continue reducing its holdings of Treasury and agency securities. The Committee remains data-dependent for future adjustments, noting that risks to both inflation and employment have risen. Its primary goal remains returning inflation to the 2 percent objective while supporting maximum employment.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "hawkish",
+                "strength": 1.0,
+                "reason": "The Committee will continue reducing its holdings of Treasury securities and agency debt and agency mortgage‑backed securities."
+            }
+        ],
+        "risks": [
+            "Higher inflation",
+            "Higher unemployment",
+            "Increased uncertainty about the economic outlook"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2025.05.07 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4-1/4 to 4-1/2 percent and continued its balance sheet runoff, describing current policy as moderately restrictive. The Committee adopted a cautious, data-dependent stance due to heightened uncertainty regarding trade policies, which present conflicting risks of higher inflation and lower economic growth. There was significant internal discussion on shifting from flexible average inflation targeting toward a more robust flexible inflation targeting framework.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Participants strongly reaffirmed the 2 percent objective and expressed concern that tariffs could markedly boost inflation and make it more persistent."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "neutral",
+                "strength": 0.7,
+                "reason": "The Committee agreed to take a cautious approach and wait for more clarity on the net economic effects of government policies before adjusting rates."
+            }
+        ],
+        "risks": [
+            "Tariff-related cost increases being passed through to consumers, leading to persistent inflation.",
+            "Significant downside risks to real GDP growth and potential recession due to trade policy uncertainty.",
+            "Labor market weakening with unemployment potentially rising above the natural rate."
+        ],
+        "importance": 0.8,
+        "confidence": 0.9,
+        "time": "2025.05.28 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, May 6–7, 2025"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4-1/4 to 4-1/2 percent and continues its balance sheet reduction program. The Committee remains committed to returning inflation to its 2 percent objective while supporting maximum employment. Future policy adjustments will be based on incoming data, evolving outlooks, and the balance of risks.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee noted that inflation remains somewhat elevated and is strongly committed to returning it to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Uncertainty about the economic outlook remains elevated",
+            "Risks to both sides of the dual mandate (inflation and employment)"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.06.18 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4.25% to 4.50% and decided to continue reducing its holdings of Treasury and agency securities. While most participants anticipate that some rate reductions may be appropriate this year, they remain cautious and data-dependent due to elevated inflation and trade policy uncertainty. The committee's overall stance remains moderately or modestly restrictive.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Participants noted that inflation remained somewhat elevated and highlighted that increased tariffs were likely to put upward pressure on prices."
+            },
+            {
+                "topic": "Forward Guidance",
+                "direction": "dovish",
+                "strength": 0.6,
+                "reason": "Most participants assessed that some reduction in the target range for the federal funds rate this year would likely be appropriate."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation stemming from the imposition of tariffs and potential persistence of price pressures.",
+            "Downside risks to employment and economic activity resulting from heightened policy uncertainty and trade tensions.",
+            "The risk of longer-term inflation expectations becoming unanchored if inflation remains elevated for an extended period."
+        ],
+        "importance": 0.8,
+        "confidence": 0.95,
+        "time": "2025.07.09 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, June 17–18, 2025"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4-1/4% to 4-1/2%, noting that inflation remains somewhat elevated while labor market conditions remain solid. The Committee continues its quantitative tightening by reducing holdings of Treasury and agency securities. Future adjustments to the target range will depend on incoming data and the balance of risks.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 4-1/4 to 4-1/2 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee noted that inflation remains somewhat elevated and is strongly committed to returning it to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Moderation of economic activity growth in the first half of the year",
+            "Elevated uncertainty about the overall economic outlook",
+            "Potential for risks to emerge that could impede the attainment of dual mandate goals"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.07.30 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 4-1/4 to 4-1/2 percent and continued its balance sheet runoff, though a minority of members favored a 25 basis point cut. The Committee highlighted a tension between persistent upside risks to inflation driven by tariffs and emerging downside risks to the labor market. Future policy adjustments will remain highly data-dependent, focusing on whether tariff effects on prices are transitory or persistent.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "A majority of participants judged upside risks to inflation as the greater risk, noting that tariffs are putting upward pressure on goods prices."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.6,
+                "reason": "Some participants noted signs of softening labor demand, including slower private payroll gains and higher unemployment among youth and Black workers."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation due to the uncertainty and persistence of tariff-induced price increases",
+            "Downside risks to employment stemming from weakening GDP growth or the increased use of AI in the workplace",
+            "Risk of long-term inflation expectations becoming unanchored if inflation remains above 2 percent for an extended period",
+            "Financial stability vulnerabilities related to elevated asset valuations and leverage in the nonbank financial sector"
+        ],
+        "importance": 0.8,
+        "confidence": 0.9,
+        "time": "2025.08.20 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, July 29–30, 2025"
+    },
+    {
+        "summary": "The Committee lowered the target range for the federal funds rate by 25 basis points to 4-4.25% in response to moderating economic activity and rising downside risks to employment. While inflation remains somewhat elevated, the Fed shifted its balance of risks toward supporting maximum employment. The Committee will maintain its quantitative tightening program while remaining data-dependent for future rate adjustments.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 1/4 percentage point."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee judges that downside risks to employment have risen as job gains have slowed and unemployment has edged up."
+            }
+        ],
+        "risks": [
+            "Downside risks to employment",
+            "Inflation remaining somewhat elevated"
+        ],
+        "importance": 1.0,
+        "confidence": 1.0,
+        "time": "2025.09.17 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC lowered the target range for the federal funds rate by 25 basis points to 4-4.25%, shifting its focus toward increasing downside risks to employment. While inflation remains somewhat elevated, the Committee is moving policy toward a more neutral setting to balance its dual mandate. Future adjustments remain data-dependent and are not on a preset course.",
+        "macro_drivers": [
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee judged that downside risks to employment had risen, which served as a primary justification for the rate reduction."
+            },
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The target range for the federal funds rate was lowered by 1/4 percentage point to 4 to 4-1/4 percent."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation due to tariff increases and persistence of elevated readings.",
+            "Potential for unemployment to rise unnecessarily if policy rates are kept too high for too long.",
+            "Risk of longer-term inflation expectations becoming unanchored if policy is eased too much or too soon.",
+            "Possibility of a more substantial deterioration in the housing market."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.10.08 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, September 16–17, 2025"
+    },
+    {
+        "summary": "The FOMC lowered the target range for the federal funds rate by 25 basis points to 3-3/4% to 4% in response to rising downside risks to employment. The Committee also announced the conclusion of its aggregate securities holdings reduction on December 1. Future policy adjustments will remain data-dependent, balancing the dual mandate of maximum employment and inflation targets.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to lower the target range for the federal funds rate by 1/4 percentage point."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "The Committee judges that downside risks to employment rose in recent months, contributing to the shift in policy stance."
+            }
+        ],
+        "risks": [
+            "Downside risks to employment have increased",
+            "Inflation remains somewhat elevated"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.10.29 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The Federal Reserve lowered the target range for the federal funds rate by 25 basis points to 3-3/4% to 4% and decided to conclude its balance sheet runoff on December 1, 2025. This shift reflects a move toward a more neutral policy stance as the Committee balances elevated inflation risks against increasing downside risks to employment. Future adjustments will remain data-dependent and not follow a preset course.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee lowered the target range for the federal funds rate by 1/4 percentage point to support maximum employment amid rising downside risks."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "The Committee decided to conclude the reduction of its aggregate securities holdings on December 1 as reserve balances approach ample levels."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation due to potential pass-through of tariff increases",
+            "Increased downside risks to employment as job gains have slowed and unemployment has edged up",
+            "Financial stability vulnerabilities in the private credit sector and stretched equity valuations related to AI optimism",
+            "Elevated economic uncertainty and data gaps caused by a government shutdown"
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.11.19 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, October 28-29, 2025"
+    },
+    {
+        "summary": "The FOMC lowered the target range for federal funds rates by 25 basis points to 3-1/2 to 3-3/4 percent, citing a shift in the balance of risks. The Committee noted that while inflation remains somewhat elevated, downside risks to employment have risen recently. Future policy adjustments will remain data-dependent and focused on the dual mandate.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "dovish",
+                "strength": 1.0,
+                "reason": "the Committee decided to lower the target range for the federal funds rate by 1/4 percentage point."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee judges that downside risks to employment rose in recent months."
+            }
+        ],
+        "risks": [
+            "Inflation remains somewhat elevated and has moved up since earlier in the year.",
+            "Elevated uncertainty about the overall economic outlook.",
+            "Increasing downside risks to maximum employment."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.12.10 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC lowered the federal funds rate by 25 basis points to a target range of 3-1/2 to 3-3/4 percent, citing increased downside risks to employment despite inflation remaining somewhat elevated. The Committee is moving toward a more neutral policy stance and will determine the timing of future adjustments based on incoming data and the balance of risks. Additionally, the Fed decided to initiate reserve management purchases (RMPs) of shorter-term Treasury securities to maintain an ample level of reserves.",
+        "macro_drivers": [
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.9,
+                "reason": "The Committee noted that job gains had slowed and downside risks to employment had risen in recent months, justifying the rate reduction."
+            },
+            {
+                "topic": "QT/Balance Sheet",
+                "direction": "dovish",
+                "strength": 0.8,
+                "reason": "The Committee judged reserve balances had declined to ample levels and will initiate purchases of shorter-term Treasury securities to maintain an ample supply."
+            }
+        ],
+        "risks": [
+            "Upside risks to inflation due to higher tariffs making price pressures more persistent.",
+            "Downside risks to employment, specifically the possibility that layoffs could push the unemployment rate sharply higher in a low-hiring environment.",
+            "Uncertainty regarding the impact of government policy changes and federal government shutdowns on GDP growth."
+        ],
+        "importance": 0.9,
+        "confidence": 1.0,
+        "time": "2025.12.30 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, December 9–10, 2025"
+    },
+    {
+        "summary": "The FOMC decided to maintain the federal funds rate at 3-1/2 to 3-3/4 percent, noting that economic activity is expanding at a solid pace while inflation remains somewhat elevated. The Committee adopted a data-dependent stance for future adjustments, balancing risks to both maximum employment and price stability. Notably, there was internal dissent with two members advocating for a rate reduction.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "The Committee stated that inflation remains somewhat elevated and reaffirmed its commitment to the 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Inflation remaining above the 2 percent target",
+            "Weakening labor market conditions as evidenced by low job gains",
+            "Elevated uncertainty regarding the general economic outlook"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2026.01.28 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 3-1/2 to 3-3/4 percent, with most members viewing the current stance as being within the range of estimates for the neutral level. While inflation remains somewhat elevated and risks are skewed to the upside, participants noted that labor market conditions have shown signs of stabilization. Future policy adjustments will be data-dependent and not on a preset course, balancing the dual mandate goals.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 0.9,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 3-1/2 to 3-3/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "Participants judged that the risk of inflation running persistently above the Committee's objective was meaningful, citing potential cost pressures and tariffs."
+            }
+        ],
+        "risks": [
+            "Inflation proving more persistent than anticipated due to core goods and tariff effects",
+            "Potential for unemployment to rise sharply in a low-hiring environment",
+            "Financial vulnerabilities related to elevated AI sector valuations and private credit leverage"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2026.02.18 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, January 27–28, 2026"
+    },
+    {
+        "summary": "The FOMC decided to maintain the federal funds rate at 3-1/2 to 3-3/4 percent, citing that inflation remains somewhat elevated while economic activity expands at a solid pace. The Committee remains data-dependent and prepared to adjust policy as risks emerge to achieve its dual mandate. One member dissented in favor of a 25 basis point rate cut.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "Inflation remains somewhat elevated and the Committee is strongly committed to returning it to its 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Uncertainty regarding developments in the Middle East for the U.S. economy",
+            "Risks to both sides of the dual mandate (inflation and employment)"
+        ],
+        "importance": 0.8,
+        "confidence": 1.0,
+        "time": "2026.03.18 20:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 3.5% to 3.75%, viewing the current stance as being within a range of plausible neutral levels. The Committee emphasized a data-dependent, nimble approach without a preset course, acknowledging that future adjustments could be either upward or downward depending on inflation and labor market evolution. There is an explicit focus on the heightened uncertainty caused by Middle East geopolitical tensions and AI adoption.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.7,
+                "reason": "Participants noted that risks to inflation are skewed to the upside due to surging energy prices from Middle East conflicts and the effects of tariffs."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.6,
+                "reason": "The majority of participants judged risks to employment as skewed to the downside, noting that labor market conditions appeared vulnerable in a low-hiring environment."
+            }
+        ],
+        "risks": [
+            "Protracted conflict in the Middle East causing persistent increases in energy prices and core inflation",
+            "Potential for AI adoption to further reduce hiring or cause structural unemployment",
+            "Inflation proving more persistent than anticipated due to tariffs and higher oil prices"
+        ],
+        "importance": 0.8,
+        "confidence": 0.95,
+        "time": "2026.04.08 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, March 17–18, 2026"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 3-1/2% to 3-3/4%, emphasizing a data-dependent approach for future adjustments. The Committee remains focused on its dual mandate of maximum employment and returning inflation to 2% amid elevated prices and geopolitical uncertainty. Voting records reveal internal dissent regarding immediate rate cuts and the inclusion of an easing bias in the statement.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "neutral",
+                "strength": 1.0,
+                "reason": "The Committee decided to maintain the target range for the federal funds rate at 3‑1/2 to 3‑3/4 percent."
+            },
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "The Committee noted that inflation is elevated and stated it is strongly committed to returning it to the 2 percent objective."
+            }
+        ],
+        "risks": [
+            "Developments in the Middle East contributing to high economic outlook uncertainty",
+            "Recent increase in global energy prices driving inflation",
+            "Risks to both sides of the dual mandate (maximum employment and price stability)"
+        ],
+        "importance": 0.9,
+        "confidence": 0.9,
+        "time": "2026.04.29 21:00",
+        "speaker": "FOMC",
+        "headline": "Federal Reserve issues FOMC statement"
+    },
+    {
+        "summary": "The FOMC maintained the federal funds rate at 3.5% to 3.75%, citing elevated inflation driven by energy prices and geopolitical uncertainty in the Middle East. The Committee is balancing upside risks to inflation against downside risks to the labor market while noting that economic activity continues to expand at a solid pace. Future policy adjustments remain data-dependent, with participants acknowledging that rates may need to stay higher for longer or potentially increase if inflation remains persistent.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "hawkish",
+                "strength": 0.9,
+                "reason": "Inflation remained elevated and moved higher, led by a sharp increase in energy prices and risks that it would take longer to return to the 2 percent objective."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "dovish",
+                "strength": 0.6,
+                "reason": "Most participants judged that risks to the employment side of the Committee's dual mandate were tilted to the downside due to potential AI disruption and economic uncertainty."
+            }
+        ],
+        "risks": [
+            "Sustained elevated energy prices from Middle East conflict leading to embedded inflation",
+            "Downside fragility in the labor market resulting in a sharp rise in unemployment",
+            "Financial instability within the private credit sector and high leverage in hedge funds",
+            "Cybersecurity threats associated with rapid AI technology adoption"
+        ],
+        "importance": 0.8,
+        "confidence": 0.95,
+        "time": "2026.05.20 21:00",
+        "speaker": "FOMC",
+        "headline": "Minutes of the Federal Open Market Committee, April 28-29, 2026"
+    }
+]

@@ -1,0 +1,128 @@
+"summary": "Chair Powell reiterates the commitment to return inflation to 2%, noting that while GDP growth has slowed, labor market tightness and core services inflation remain persistent issues. He signals a possible moderation in the pace of rate hikes starting as soon as December, but emphasizes that the ultimate terminal rate may be higher than previously projected.",
+        "macro_drivers": [
+            {
+                "topic": "Interest Rates",
+                "direction": "hawkish",
+                "strength": 0.8,
+                "reason": "Powell states the ultimate level of rates will likely need to be somewhat higher than thought at the September meeting and that policy must remain restrictive for some time."
+            },
+            {
+                "topic": "Employment/Labor",
+                "direction": "hawkish",
+                "eñth: 0.7, <0x0D>n      \"reason\": \"Powell highlights a significant labor supply shortfall and notes that wage growth remains well above levels consistent with 2% inflation.\"<0x0D>n    }\n  ],\n  \"risks\": [\n    \"Inflation remaining stubbornly sideways despite tightening\",\n    \"Labor market imbalance continuing to drive core services inflation\",\n    \"Risk of prematurely loosening policy\"\n  ],\n  \"importance\": 0.9,\n  \"confidence\": 0.9\n}": {
+                    "summary": "Chair Powell reiterates the commitment to return inflation to 2%, noting that while GDP growth has slowed, labor market tightness and core services inflation remain persistent issues. He signals a possible moderation in the pace of rate hikes starting as soon as December, but emphasizes that the ultimate terminal rate may be higher than previously projected.",
+                    "macro_drivers": [
+                        {
+                            "topic": "Interest Rates",
+                            "direction": "hawkish",
+                            "strength": 0.8,
+                            "reason": "Powell states the ultimate level of rates will likely need to be somewhat higher than previously thought and that policy must remain restrictive for some time."
+                        },
+                        {
+                            "topic": "Employment/Labor",
+                            "direction": "hawkish",
+                            "strength": 0.7,
+                            "reason": "Powell highlights a significant labor supply shortfall and notes that wage growth remains well above levels consistent with 2% inflation."
+                        }
+                    ],
+                    "risks": [
+                        "Inflation remaining stubbornly sideways despite tightening",
+                        "Labor market imbalance continuing to drive core services inflation",
+                        "Risk of prematurely loosening policy"
+                    ],
+                    "importance": 0.9,
+                    "confidence": 0.9
+                }
+            }
+        ],
+        "time": "2022.12.01 06:59",
+        "speaker": "Chair Jerome H. Powell",
+        "headline": "Inflation and the Labor Market"
+    },            
+
+Changed to:
+
+{
+    "summary": "Chair Powell reiterates the commitment to return inflation to 2%, noting that while GDP growth has slowed, labor market tightness and core services inflation remain persistent issues. He signals a possible moderation in the pace of rate hikes starting as soon as December, but emphasizes that the ultimate terminal rate may be higher than previously projected.",
+    "macro_drivers": [
+        {
+            "topic": "Interest Rates",
+            "direction": "hawkish",
+            "strength": 0.8,
+            "reason": "Powell states the ultimate level of rates will likely need to be somewhat higher than thought at the September meeting and that policy must remain restrictive for some time."
+        },
+        {
+            "topic": "Employment/Labor",
+            "direction": "hawkish",
+            "strength: 0.7,
+            "reason": "Powell highlights a significant labor supply shortfall and notes that wage growth remains well above levels consistent with 2% inflation."    
+        }
+    ],  
+    "risks": [    
+        "Inflation remaining stubbornly sideways despite tightening",
+        "Labor market imbalance continuing to drive core services inflation",
+        "Risk of prematurely loosening policy" 
+    ],
+    "importance": 0.9,
+    "confidence": 0.9,
+    "time": "2022.12.01 06:59",
+    "speaker": "Chair Jerome H. Powell",
+    "headline": "Inflation and the Labor Market"
+},
+
+
+
+
+
+{
+        "summary": "Governor Michael Barr emphasizes the importance of small businesses for productivity and innovation while reiterating that inflation is trending toward 2 percent and unemployment remains low. He notes that potential trade-policy disruptions could risk higher inflation and lower growth.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "neutral",
+                "strength": 0.3,
+                "reason": "He states that 'inflation continuing to come down towards our 2 percent target', which reiterates the existing FOMC baseline."
+            },
+            {
+                "topic": "Economic Growth",
+                "direction": "neutral",
+                "strength": 0.4,
+                "reason": "He describes the economy as being on 'solid footing' with 'solid growth,' aligning with current Fed policy stance."
+            }
+        ],
+        "risks": [
+            "Trade policies causing increased uncertainty and potential supply chain disruptions that could lead to higher inflation and lower growth."
+        ],
+        "ครั้ง importance": 0.2,
+        "confidence": 0.9,
+        "time": "2025.05.16 06:59",
+        "speaker": "Governor Michael S. Barr",
+        "headline": "Opening Remarks"
+    },
+
+Change to:
+{
+        "summary": "Governor Michael Barr emphasizes the importance of small businesses for productivity and innovation while reiterating that inflation is trending toward 2 percent and unemployment remains low. He notes that potential trade-policy disruptions could risk higher inflation and lower growth.",
+        "macro_drivers": [
+            {
+                "topic": "Inflation",
+                "direction": "neutral",
+                "strength": 0.3,
+                "reason": "He states that 'inflation continuing to come down towards our 2 percent target', which reiterates the existing FOMC baseline."
+            },
+            {
+                "topic": "Economic Growth",
+                "direction": "neutral",
+                "strength": 0.4,
+                "reason": "He describes the economy as being on 'solid footing' with 'solid growth,' aligning with current Fed policy stance."
+            }
+        ],
+        "risks": [
+            "Trade policies causing increased uncertainty and potential supply chain disruptions that could lead to higher inflation and lower growth."
+        ],
+        "importance": 0.2,
+        "confidence": 0.9,
+        "time": "2025.05.16 06:59",
+        "speaker": "Governor Michael S. Barr",
+        "headline": "Opening Remarks"
+    },

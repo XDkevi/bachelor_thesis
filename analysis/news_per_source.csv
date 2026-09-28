@@ -1,0 +1,16 @@
+NewsOutlet,count
+reuters.com,68370
+bloomberg.com,19069
+cnbc.com,14366
+economist.com,6124
+wsj.com,2885
+ft.com,143
+
+outlets/candles on average; total candles = 14065, unique candles = 11875
+NewsOutlet, count, avg/total candles, avg/unique candles
+reuters.com, 68370, 4.86, 5.76
+bloomberg.com, 19069, 1.36, 1.61
+cnbc.com, 14366, 1.02, 1.21
+economist.com, 6124, 0.44, 0.52
+wsj.com, 2885, 0.21, 0.24
+ft.com, 143, 0.01, 0.01
