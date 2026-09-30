@@ -12,10 +12,7 @@ df = pd.concat([df1,df2,df3,df4,df5,df6,df7], ignore_index=True);
 
 df['PublishTimestamp'] = pd.to_datetime(df['PublishTimestamp'].str.replace(' UTC', ''), utc=True)
 
-# 7. RE-RANKING: Top 20 pro neuem Handelsblock (PredictionCandle) ermitteln
-# Entspricht exakt der QUALIFY-Logik aus SQL
 df_ranked = df.copy()
-# Hilfsspalte für das Sortieren (Sentiment Score absolut nehmen)
 df_ranked['AbsSentiment'] = df_ranked['SentimentScore'].abs()
 
 df_selected = (
@@ -24,7 +21,7 @@ df_selected = (
         ascending=[True, False, False, False]
     )
     .groupby('Candle4H', sort=False)
-    .head(20) # Holt die Top 20 pro neuem Block
+    .head(20)
 )
 df_final = df_selected.sort_values(
     by=['Candle4H', 'PublishTimestamp'],
@@ -32,7 +29,6 @@ df_final = df_selected.sort_values(
 )
 df_final = df_final.drop(columns=['AbsSentiment'])
 df_final['PublishTimestamp'] = df_final['PublishTimestamp'].dt.strftime('%Y-%m-%d %H:%M:%S UTC')
-# 9. Als neue, lookahead-sichere CSV abspeichern
 df_final.to_csv("gdelt_news_2020_2026_eet_eest.csv", index=False)
 print("Umgruppierung erfolgreich!")
 old = df.copy()
