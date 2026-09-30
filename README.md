@@ -5,15 +5,24 @@ https://github.com/marco82ger/AI_forex_fisichella_garolla
 The used EA is the LSTM_AI_TI_system.mq5 and should be put in the /Experts/Advisors in the same directory of MT5.
 
 The final data used in the MetaTrader 5 backtests consists of the following:
+
 LLM signals:
 extracted_signals_calendar_communication_gdelt_new_new_1h.csv
+
 extracted_signals_calendar_communication_gdelt_new_new.csv
+
 extracted_signals_calendar_communication_gdelt_new_new_12h.csv
+
 extracted_signals_calendar_communication_gdelt_new_new_1d.csv
+
 LSTM signals:
+
 LSTM_predictions_H1_2020_2026.csv
+
 LSTM_predictions_H4_2020_2026.csv
+
 LSTM_predictions_H12_2020_2026.csv
+
 LSTM_predictions_D1_2020_2026.csv
 
 These need to be located into /Terminal/Common in the same diectory of MT5.
